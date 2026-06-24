@@ -817,12 +817,23 @@
     "60380039221841": {
         "code": "60380039221841",
         "title": "Release Order",
-        "tpin": "70713003",
+        "tpin": "70714903",
         "importer": "Hardwell Master - Khumbize Estate\r\nP O Box 55 ,Kasiya,\r\nLilongwe",
         "office": "SONGWE BORDER",
         "reference": "C 21502 of 09/09/2025",
         "declarant": "CA25375",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60462026152043": {
+        "code": "60462026152043",
+        "title": "Release Order",
+        "tpin": "4620559",
+        "importer": "Takondwa Club\r\nP.O Box Mchinji\r\nMalawi",
+        "office": "DEDZA BORDER",
+        "reference": "C 24918 of 17/08/2025",
+        "declarant": "CA25799",
+        "items": "1",
+        "taxes": "5395678.00"
     }
 }
