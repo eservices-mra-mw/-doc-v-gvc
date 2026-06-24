@@ -813,5 +813,16 @@
         "declarant": "CA25651",
         "items": "3",
         "taxes": "7371831.00"
+    },
+    "60380039221841": {
+        "code": "60380039221841",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "Hardwell Master - Khumbize Estate\r\nP O Box 55 ,Kasiya,\r\nLilongwe",
+        "office": "SONGWE BORDER",
+        "reference": "C 21502 of 09/09/2025",
+        "declarant": "CA25375",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }
