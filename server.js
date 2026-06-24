@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = 8891;
+const PORT = 8893;
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -32,22 +32,28 @@ const server = http.createServer((req, res) => {
       // Try adding .html if file not found
       fs.readFile(filePath + '.html', (err2, content2) => {
         if (err2) {
-          res.writeHead(404, { 'Content-Type': 'text/plain' });
-          res.end('404 Not Found');
+          res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+          res.end('404 Not Found', 'utf-8');
           console.log('  404 Not Found');
         } else {
           const ext = '.html';
           const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-          res.writeHead(200, { 'Content-Type': contentType });
-          res.end(content2, 'utf-8');
+          res.writeHead(200, { 
+            'Content-Type': contentType, 
+            'Content-Length': content2.length 
+          });
+          res.end(content2);
           console.log('  200 OK');
         }
       });
     } else {
       const ext = String(path.extname(filePath)).toLowerCase();
       const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-      res.writeHead(200, { 'Content-Type': contentType });
-      res.end(content, 'utf-8');
+      res.writeHead(200, { 
+        'Content-Type': contentType, 
+        'Content-Length': content.length 
+      });
+      res.end(content);
       console.log('  200 OK');
     }
   });

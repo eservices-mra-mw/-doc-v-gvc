@@ -846,5 +846,16 @@
         "declarant": "CA25414",
         "items": "1",
         "taxes": "2461192.37"
+    },
+    "60374330814023": {
+        "code": "60374330814023",
+        "title": "Release Order",
+        "tpin": "70981280",
+        "importer": "CHISANGA CLUB\r\nC/O P.O BOX 65 ULIWA\r\nCHILUMBA, KARONGA",
+        "office": "SONGWE BORDER",
+        "reference": "C 39498 of 07/11/2025",
+        "declarant": "CA25392",
+        "items": "1",
+        "taxes": "250917.60"
     }
 }

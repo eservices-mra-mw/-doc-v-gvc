@@ -1062,5 +1062,19 @@
         "total packages": "1",
         "consignment value": "USD 19500.00",
         "taxes": "2491192.37"
+    },
+    "70264115322054": {
+        "code": "70264115322054",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70781280",
+        "importer/consignee": "CHISANGA CLUB\r\nC/O P.O BOX 65 ULIWA\r\nCHILUMBA, KARONGA",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 39498 of 2025/11/07",
+        "declarant code": "CA25393",
+        "declarant name": "KAPEMBA CUSTOMS CLEARING AND LOGISTICS\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "25",
+        "consignment value": "USD 4000.00",
+        "taxes": "280917.60"
     }
 }
