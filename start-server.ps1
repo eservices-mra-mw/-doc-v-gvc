@@ -1,6 +1,6 @@
 Add-Type -AssemblyName System.Web
 $listener = New-Object System.Net.HttpListener
-$port = 8888
+$port = 8890
 $listener.Prefixes.Add("http://localhost:$port/")
 $listener.Start()
 Write-Host "Server running at http://localhost:$port/"

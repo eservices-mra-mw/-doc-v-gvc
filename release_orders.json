@@ -802,5 +802,16 @@
         "declarant": "CA25789",
         "items": "1",
         "taxes": "5395678.00"
+    },
+    "60744657050086": {
+        "code": "60744657050086",
+        "title": "Release Order",
+        "tpin": "71237046",
+        "importer": "VWAWI CLUB\r\nP.O BOX 46, RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25904 of 17/11/2025",
+        "declarant": "CA25651",
+        "items": "3",
+        "taxes": "7371831.00"
     }
 }
