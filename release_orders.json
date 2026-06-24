@@ -835,5 +835,16 @@
         "declarant": "CA25799",
         "items": "1",
         "taxes": "5395678.00"
+    },
+    "60976114313305": {
+        "code": "60976114313305",
+        "title": "Release Order",
+        "tpin": "70430955",
+        "importer": "YAMBANISO CLUB\r\nP.O BOX 19 BWENGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 6683 of 20/11/2025",
+        "declarant": "CA25414",
+        "items": "1",
+        "taxes": "2461192.37"
     }
 }

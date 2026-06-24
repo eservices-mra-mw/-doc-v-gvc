@@ -1048,5 +1048,19 @@
         "total packages": "112",
         "consignment value": "USD 15672.00",
         "taxes": "75420678.00"
+    },
+    "70792374720693": {
+        "code": "70792374720693",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70430955",
+        "importer/consignee": "YAMBANISO CLUB\r\nP.O BOX 19 BWENGU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 6683 of 2025/11/20",
+        "declarant code": "CA25414",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 19500.00",
+        "taxes": "2491192.37"
     }
 }
