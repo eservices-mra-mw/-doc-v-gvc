@@ -1076,5 +1076,19 @@
         "total packages": "25",
         "consignment value": "USD 4000.00",
         "taxes": "280917.60"
+    },
+    "70735532636968": {
+        "code": "70735532636968",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70781280",
+        "importer/consignee": "ALISON MATUTA - FIRST CAPITAL BANK\r\nP/ BAG 122 BLANTYRE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 39543 of 2025/09/23",
+        "declarant code": "CA25865",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3100.00",
+        "taxes": "4740324.15"
     }
 }

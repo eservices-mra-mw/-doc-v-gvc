@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = 8893;
+const PORT = 8895;
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=utf-8',
@@ -21,16 +21,43 @@ const MIME_TYPES = {
 
 const WEB_ROOT = path.join(__dirname);
 
+const serveFile = (res, filePath, contentType) => {
+  const stream = fs.createReadStream(filePath);
+  
+  stream.on('error', (err) => {
+    res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+    res.end('404 Not Found', 'utf-8');
+    console.log('  404 Not Found');
+  });
+  
+  stream.on('open', () => {
+    fs.stat(filePath, (err, stats) => {
+      if (err) {
+        res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+        res.end('500 Internal Server Error', 'utf-8');
+        return;
+      }
+      
+      res.writeHead(200, {
+        'Content-Type': contentType,
+        'Content-Length': stats.size
+      });
+      
+      stream.pipe(res);
+      console.log('  200 OK');
+    });
+  });
+};
+
 const server = http.createServer((req, res) => {
   let filePath = path.join(WEB_ROOT, req.url === '/' ? 'index.html' : req.url);
   
   console.log(`[${req.method}] ${req.url}`);
   
-  // Try to serve the file
-  fs.readFile(filePath, (err, content) => {
+  fs.access(filePath, fs.constants.F_OK, (err) => {
     if (err) {
       // Try adding .html if file not found
-      fs.readFile(filePath + '.html', (err2, content2) => {
+      fs.access(filePath + '.html', fs.constants.F_OK, (err2) => {
         if (err2) {
           res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
           res.end('404 Not Found', 'utf-8');
@@ -38,23 +65,13 @@ const server = http.createServer((req, res) => {
         } else {
           const ext = '.html';
           const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-          res.writeHead(200, { 
-            'Content-Type': contentType, 
-            'Content-Length': content2.length 
-          });
-          res.end(content2);
-          console.log('  200 OK');
+          serveFile(res, filePath + '.html', contentType);
         }
       });
     } else {
       const ext = String(path.extname(filePath)).toLowerCase();
       const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-      res.writeHead(200, { 
-        'Content-Type': contentType, 
-        'Content-Length': content.length 
-      });
-      res.end(content);
-      console.log('  200 OK');
+      serveFile(res, filePath, contentType);
     }
   });
 });
