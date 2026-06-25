@@ -879,5 +879,16 @@
         "declarant": "CA24597",
         "items": "1",
         "taxes": "5193750.00"
+    },
+    "60360405630109": {
+        "code": "60360405630109",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "NYABOTHA CLUB\r\nBOX 19 ENUKWENI, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 15864 of 09/09/2025",
+        "declarant": "CA25916",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
