@@ -868,5 +868,16 @@
         "declarant": "CA25865",
         "items": "1",
         "taxes": "4710324.15"
+    },
+    "60657037000864": {
+        "code": "60657037000864",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "BLESSINGS CHANZA\r\nP.O BOX 94 MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25646 of 12/10/2024",
+        "declarant": "CA24597",
+        "items": "1",
+        "taxes": "5193750.00"
     }
 }

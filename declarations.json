@@ -1090,5 +1090,19 @@
         "total packages": "1",
         "consignment value": "USD 3100.00",
         "taxes": "4740324.15"
+    },
+    "70391565700842": {
+        "code": "70391565700842",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "BLESSINGS CHANZA\r\nP.O BOX 94 MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25646 of 2025/09/23",
+        "declarant code": "CA24597",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5000.00",
+        "taxes": "5223750.00"
     }
 }
