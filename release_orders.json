@@ -890,5 +890,16 @@
         "declarant": "CA25916",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60656336070984": {
+        "code": "60656336070984",
+        "title": "Release Order",
+        "tpin": "70749456",
+        "importer": "TISANGEPO CLUB\r\nP.O BOX 43, ENGUCWINI\r\nMZIMBA\r\nMALAWI",
+        "office": "DEDZA BORDER",
+        "reference": "C 26497 of 10/10/2025",
+        "declarant": "CA25398",
+        "items": "1",
+        "taxes": "37387207.28"
     }
 }
