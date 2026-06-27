@@ -901,5 +901,16 @@
         "declarant": "CA25398",
         "items": "1",
         "taxes": "37387207.28"
+    },
+    "60210503004799": {
+        "code": "60210503004799",
+        "title": "Release Order",
+        "tpin": "70764189",
+        "importer": "Mawula Club\r\nP.O. Box 12 Madisi\r\nDowa Malawi",
+        "office": "MWANZA BORDER",
+        "reference": "C 1164 of 23/08/2025",
+        "declarant": "CA25267",
+        "items": "1",
+        "taxes": "282049.00"
     }
 }

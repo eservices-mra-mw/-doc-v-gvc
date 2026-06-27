@@ -1132,5 +1132,19 @@
         "total packages": "1",
         "consignment value": "USD 20252.50",
         "taxes": "37417207.28"
+    },
+    "70120336700819": {
+        "code": "70120336700819",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70764189",
+        "importer/consignee": "Mawula Club\r\nP.O. Box 12 Madisi\r\nDowa Malawi",
+        "clearance office": "MWANZA BORDER",
+        "registration reference": "C 1164 of 2025/08/23",
+        "declarant code": "CA25267",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 6655.00",
+        "taxes": "312049.00"
     }
 }
