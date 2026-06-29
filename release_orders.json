@@ -912,5 +912,16 @@
         "declarant": "CA25267",
         "items": "1",
         "taxes": "282049.00"
+    },
+    "60370505009822": {
+        "code": "60370505009822",
+        "title": "Release Order",
+        "tpin": "70753003",
+        "importer": "GOMEZGANI CLUB\r\nP.O BOX 45\r\nMPHEREMBE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 13253 of 09/10/2025",
+        "declarant": "CA25674",
+        "items": "1",
+        "taxes": "7039405.00"
     }
 }

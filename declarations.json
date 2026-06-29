@@ -1146,5 +1146,19 @@
         "total packages": "1",
         "consignment value": "USD 6655.00",
         "taxes": "312049.00"
+    },
+    "70261147201839": {
+        "code": "70261147201839",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70753003",
+        "importer/consignee": "GOMEZGANI CLUB\r\nP.O BOX 45 MPHEREMBE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 13253 of 2025/10/09",
+        "declarant code": "CA25674",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5741.00",
+        "taxes": "7069405.00"
     }
 }
