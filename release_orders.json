@@ -923,5 +923,16 @@
         "declarant": "CA25674",
         "items": "1",
         "taxes": "7039405.00"
+    },
+    "60572037152959": {
+        "code": "60572037152959",
+        "title": "Release Order",
+        "tpin": "4620559",
+        "importer": "CHAGWE CLUB\r\nP/BAG 1 RUMPHI\r\nMALAWI",
+        "office": "DEDZA BORDER",
+        "reference": "C 25997 of 12/12/2025",
+        "declarant": "CA25198",
+        "items": "1",
+        "taxes": "5395678.00"
     }
 }
