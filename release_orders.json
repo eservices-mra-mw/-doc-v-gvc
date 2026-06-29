@@ -934,5 +934,16 @@
         "declarant": "CA25198",
         "items": "1",
         "taxes": "5395678.00"
+    },
+    "60353789004691": {
+        "code": "60353789004691",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "JOSTAN W PHIRI\r\nP.O BOX 57\r\nMBALACHANDA MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 11682 of 15/02/2026",
+        "declarant": "CA25684",
+        "items": "1",
+        "taxes": "7041057.21"
     }
 }
