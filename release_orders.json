@@ -945,5 +945,16 @@
         "declarant": "CA25684",
         "items": "1",
         "taxes": "7041057.21"
+    },
+    "60361539900798": {
+        "code": "60361539900798",
+        "title": "Release Order",
+        "tpin": "74196577",
+        "importer": "LYTON DZANKANDE\r\nCHOMBE VGE P/A KASONGA\r\nNTCHISI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 91665 of 20/12/2025",
+        "declarant": "CA25333",
+        "items": "1",
+        "taxes": "3275017.73"
     }
 }

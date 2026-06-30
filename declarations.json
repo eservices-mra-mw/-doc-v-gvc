@@ -1188,5 +1188,19 @@
         "total packages": "1",
         "consignment value": "USD 13000.00",
         "taxes": "7071057.21"
+    },
+    "70272946001839": {
+        "code": "70272946001839",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "74196577",
+        "importer/consignee": "LYTON DZANKANDE\r\nCHOMBE VGE P/A KASONGA\r\nTCHISI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 91665 of 2025/12/20",
+        "declarant code": "CA25223",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1262.00.00",
+        "taxes": "3305017.73"
     }
 }
