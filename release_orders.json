@@ -956,5 +956,16 @@
         "declarant": "CA25333",
         "items": "1",
         "taxes": "3275017.73"
+    },
+    "60260585510708": {
+        "code": "60260585510708",
+        "title": "Release Order",
+        "tpin": "70699099",
+        "importer": "CHILELA CLUB\r\nPOST OFFICE BOX 39, MWAZISI\r\nMZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25599 of 23/08/2025",
+        "declarant": "CA25790",
+        "items": "1",
+        "taxes": "7873804.00"
     }
 }
