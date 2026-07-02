@@ -1272,5 +1272,19 @@
         "total packages": "1",
         "consignment value": "USD 2700.00",
         "taxes": "2491192.37"
+    },
+    "70312294790601": {
+        "code": "70312294790601",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71017878",
+        "importer/consignee": "Stanly Gondwe - NKHULWALA ESTATE\r\nP.O. Box 22 Mwazisi,\r\nRumphi, Malawi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25816 of 2025/12/13",
+        "declarant code": "CA25539",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1901.00",
+        "taxes": "2491192.37"
     }
 }
