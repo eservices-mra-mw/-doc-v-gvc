@@ -967,5 +967,16 @@
         "declarant": "CA25790",
         "items": "1",
         "taxes": "7873804.00"
+    },
+    "60385440925034": {
+        "code": "60385440925034",
+        "title": "Release Order",
+        "tpin": "70719433",
+        "importer": "KASIMBA BOLERO JTI CLUB\r\nZUNGUZUNGU, BOLERO\r\nP.O BOX 001\r\nRUMPHI MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 39499 of 07/11/2025",
+        "declarant": "CA25400",
+        "items": "1",
+        "taxes": "250917.60"
     }
 }

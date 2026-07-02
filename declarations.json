@@ -1216,5 +1216,19 @@
         "total packages": "1",
         "consignment value": "USD 5310.00",
         "taxes": "8004574.28"
+    },
+    "70375116433065": {
+        "code": "70375116433065",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70781280",
+        "importer/consignee": "KASIMBA BOLERO JTI CLUB\r\nZUNGUZUNGU, BOLERO\r\nP.O. BOX 001 RUMPHI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 39499 of 2025/11/07",
+        "declarant code": "CA25400",
+        "declarant name": "KAPEMBA CUSTOMS CLEARING AND LOGISTICS\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "50",
+        "consignment value": "USD 1507.00",
+        "taxes": "280917.60"
     }
 }
