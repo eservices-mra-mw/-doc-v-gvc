@@ -989,5 +989,16 @@
         "declarant": "CA25388",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60930706640299": {
+        "code": "60930706640299",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "CHIHOMA ESTATE\r\nBOX 30 PHWAMPHWA RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25084 of 09/09/2025",
+        "declarant": "CA25928",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
