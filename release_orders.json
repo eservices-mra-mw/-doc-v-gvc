@@ -1000,5 +1000,16 @@
         "declarant": "CA25928",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60297055697005": {
+        "code": "60297055697005",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "GEOFREY CHIRAMBO - CHIHOMA\r\nESTATE\r\nP.O BOX 30 PHWAMPHWA\r\nRUMPHI MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2685 of 20/11/2025",
+        "declarant": "CA25519",
+        "items": "1",
+        "taxes": "2461192.37"
     }
 }
