@@ -1021,5 +1021,16 @@
         "declarant": "CA25539",
         "items": "1",
         "taxes": "2461192.37"
+    },
+    "60547847005373": {
+        "code": "60547847005373",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "MPATUKO CLUB\r\nP.O. BOX 85 ENGUCWINI\r\nMZIMBA",
+        "office": "SONGWE BORDER",
+        "reference": "C 11029 of 20/11/2025",
+        "declarant": "CA22678",
+        "items": "1",
+        "taxes": "5086600.00"
     }
 }

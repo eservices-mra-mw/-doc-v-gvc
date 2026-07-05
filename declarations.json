@@ -1286,5 +1286,19 @@
         "total packages": "1",
         "consignment value": "USD 1901.00",
         "taxes": "2491192.37"
+    },
+    "70773748000935": {
+        "code": "70773748000935",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "MPATUKO CLUB\r\nP.O. BOX 85 ENGUCWINI\r\nMZIMBA",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 11029 of 2025/11/20",
+        "declarant code": "CA22678",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5000.00",
+        "taxes": "5116600.00"
     }
 }
