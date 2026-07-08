@@ -1314,5 +1314,19 @@
         "total packages": "1",
         "consignment value": "USD 7067.00",
         "taxes": "3527638.00"
+    },
+    "70491837264510": {
+        "code": "70491837264510",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "HUMBO CLUB\r\nBOX 54 CHILUMVA\r\nKARONGA MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 24487 of 2025/08/17",
+        "declarant code": "CA25436",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 21000.00",
+        "taxes": "7979809.59"
     }
 }
