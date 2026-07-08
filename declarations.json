@@ -1328,5 +1328,19 @@
         "total packages": "1",
         "consignment value": "USD 21000.00",
         "taxes": "7979809.59"
+    },
+    "70159264837014": {
+        "code": "70159264837014",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "CA25436",
+        "importer/consignee": "MADALITSO MWAFULIRA\r\nP.A NTCHENACHENA\r\nRUMPHI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25787 of 2025/12/20",
+        "declarant code": "CA25436",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2500.00",
+        "taxes": "7979809.59"
     }
 }
