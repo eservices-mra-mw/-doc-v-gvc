@@ -1065,5 +1065,16 @@
         "declarant": "CA25647",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60723849200199": {
+        "code": "60723849200199",
+        "title": "Release Order",
+        "tpin": "51972589",
+        "importer": "MAKULANDE ESTATE\r\nP.O. BOX 43 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2738 of 21/11/2025",
+        "declarant": "CA25017",
+        "items": "1",
+        "taxes": "18686063.00"
     }
 }
