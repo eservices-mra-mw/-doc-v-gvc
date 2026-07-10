@@ -1076,5 +1076,16 @@
         "declarant": "CA25017",
         "items": "1",
         "taxes": "18686063.00"
+    },
+    "60403300009211": {
+        "code": "60403300009211",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "VICTOR NYIRENDA - MAKULANDA ESTATE\r\nP.O BOX 43 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 1505 of 16/11/2024",
+        "declarant": "CA2493",
+        "items": "1",
+        "taxes": "7707000.00"
     }
 }
