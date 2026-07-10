@@ -1087,5 +1087,16 @@
         "declarant": "CA2493",
         "items": "1",
         "taxes": "7707000.00"
+    },
+    "60350516000895": {
+        "code": "60350516000895",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "Humbo Club\r\nP.O. Box 54, Chilumba\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 2265 of 14/10/2025",
+        "declarant": "CA25256",
+        "items": "1",
+        "taxes": "12946678.70"
     }
 }
