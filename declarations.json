@@ -1384,5 +1384,19 @@
         "total packages": "1",
         "consignment value": "USD 17400.00",
         "taxes": "12976678.70"
+    },
+    "70353303500496": {
+        "code": "70353303500496",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "CA25229",
+        "importer/consignee": "NELSON KAPALA LESTER\r\nP.O BOX 124, MADISI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25196 of 2025/08/08",
+        "declarant code": "CA25229",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "3",
+        "total packages": "3",
+        "consignment value": "USD 15000.00",
+        "taxes": "21107892.30"
     }
 }

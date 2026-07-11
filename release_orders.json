@@ -1098,5 +1098,16 @@
         "declarant": "CA25256",
         "items": "1",
         "taxes": "12946678.70"
+    },
+    "60252301800960": {
+        "code": "60252301800960",
+        "title": "Release Order",
+        "tpin": "70718159",
+        "importer": "NELSON KAPALA LESTER\r\nP.O BOX 124, MADISI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25196 of 08/08/2025",
+        "declarant": "CA25229",
+        "items": "3",
+        "taxes": "21017892.30"
     }
 }
