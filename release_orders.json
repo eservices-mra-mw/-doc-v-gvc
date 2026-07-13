@@ -1109,5 +1109,16 @@
         "declarant": "CA25229",
         "items": "3",
         "taxes": "21017892.30"
+    },
+    "60724950311209": {
+        "code": "60724950311209",
+        "title": "Release Order",
+        "tpin": "51972589",
+        "importer": "MATHANGENI CLUB\r\nNEAR LIVINGSTONIA UNIVERSITY\r\n16 RUMPHI, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2758 of 21/11/2025",
+        "declarant": "CA25179",
+        "items": "1",
+        "taxes": "1389225.00"
     }
 }

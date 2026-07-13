@@ -1398,5 +1398,19 @@
         "total packages": "3",
         "consignment value": "USD 15000.00",
         "taxes": "21107892.30"
+    },
+    "70893374803204": {
+        "code": "70893374803204",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "51972589",
+        "importer/consignee": "MATHANGENI CLUB\r\nNEAR LIVINGSTONIA UNIVERSITY\r\n16 RUMPHI, MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2758 of 2025/11/21",
+        "declarant code": "CA25017",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2900.00",
+        "taxes": "1419225.00"
     }
 }
