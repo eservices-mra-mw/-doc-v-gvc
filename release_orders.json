@@ -1120,5 +1120,16 @@
         "declarant": "CA25179",
         "items": "1",
         "taxes": "1389225.00"
+    },
+    "60475675000909": {
+        "code": "60475675000909",
+        "title": "Release Order",
+        "tpin": "40977013",
+        "importer": "VIMBUNDI CLUB\r\nANWELL MDAKIWE KAUNDA\r\nBOX 19 BWENGU",
+        "office": "SONGWE BORDER",
+        "reference": "C 42344 of 27/11/2025",
+        "declarant": "CA25306",
+        "items": "1",
+        "taxes": "5311014.00"
     }
 }

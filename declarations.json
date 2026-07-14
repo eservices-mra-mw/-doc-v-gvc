@@ -1412,5 +1412,19 @@
         "total packages": "1",
         "consignment value": "USD 2900.00",
         "taxes": "1419225.00"
+    },
+    "70325676003787": {
+        "code": "70325676003787",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "40977013",
+        "importer/consignee": "VIMBUNDI CLUB\r\nANWELL MDAKIWE KAUNDA\r\nBOX 19 BWENGU",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 42344 of 2025/11/27",
+        "declarant code": "CA25306",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 9300.00",
+        "taxes": "5341014.00"
     }
 }
