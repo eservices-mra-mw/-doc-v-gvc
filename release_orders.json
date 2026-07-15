@@ -1142,5 +1142,16 @@
         "declarant": "CA25289",
         "items": "1",
         "taxes": "1389225.00"
+    },
+    "60371516630091": {
+        "code": "60371516630091",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "NKHANILA CLUB\r\nP.O BOX 46 BOLERO\r\nRUMPHI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2863 of 06/10/2025",
+        "declarant": "CA25066",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
