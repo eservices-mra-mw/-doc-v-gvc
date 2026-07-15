@@ -1454,5 +1454,19 @@
         "total packages": "1",
         "consignment value": "USD 4000.00",
         "taxes": "6878750.00"
+    },
+    "70904485904119": {
+        "code": "70904485904119",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "NKHANILA CLUB\r\nP.O BOX 46 BOLERO\r\nRUMPHI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2768 of 2025/11/17",
+        "declarant code": "CA25190",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2995.00",
+        "taxes": "1419225.00"
     }
 }
