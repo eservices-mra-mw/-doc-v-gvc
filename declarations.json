@@ -1426,5 +1426,19 @@
         "total packages": "1",
         "consignment value": "USD 9300.00",
         "taxes": "5341014.00"
+    },
+    "70905489003315": {
+        "code": "70905489003315",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "40968218",
+        "importer/consignee": "VINJERU CLUB\r\nP.O BOX 8 MWAZISI\r\nRUMPHI, MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2758 of 2025/11/21",
+        "declarant code": "CA25289",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5457.00",
+        "taxes": "1419225.00"
     }
 }

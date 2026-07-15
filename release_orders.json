@@ -1131,5 +1131,16 @@
         "declarant": "CA25306",
         "items": "1",
         "taxes": "5311014.00"
+    },
+    "60735060422319": {
+        "code": "60735060422319",
+        "title": "Release Order",
+        "tpin": "40968218",
+        "importer": "VINJERU CLUB\r\nP.O BOX 8 MWAZISI\r\nRUMPHI, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2758 of 21/11/2025",
+        "declarant": "CA25289",
+        "items": "1",
+        "taxes": "1389225.00"
     }
 }
