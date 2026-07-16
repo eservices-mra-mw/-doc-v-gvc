@@ -1164,5 +1164,16 @@
         "declarant": "CA25190",
         "items": "1",
         "taxes": "1389225.00"
+    },
+    "60360815090836": {
+        "code": "60360815090836",
+        "title": "Release Order",
+        "tpin": "30970695",
+        "importer": "DANIEL CHOLOMALI\r\nPRIVATE BAG 158\r\nMZUZU MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2435 of 16/11/2025",
+        "declarant": "CA25985",
+        "items": "1",
+        "taxes": "5368119.00"
     }
 }

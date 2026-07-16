@@ -1482,5 +1482,19 @@
         "total packages": "1",
         "consignment value": "USD 5000.00",
         "taxes": "6243696.16"
+    },
+    "70282536009858": {
+        "code": "70282536009858",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "30970695",
+        "importer/consignee": "DANIEL CHOLOMALI\r\nPRIVATE BAG 158\r\nMZUZU MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2435 of 2025/11/16",
+        "declarant code": "CA25984",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "EUR 13788.00",
+        "taxes": "5398119.05"
     }
 }
