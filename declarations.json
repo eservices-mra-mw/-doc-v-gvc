@@ -1468,5 +1468,19 @@
         "total packages": "1",
         "consignment value": "USD 2995.00",
         "taxes": "1419225.00"
+    },
+    "70915495905990": {
+        "code": "70915495905990",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31349500",
+        "importer/consignee": "EARLY CHILDHOOD DEVELOPMENT\r\nP.O BOX MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2769 of 2026/07/15",
+        "declarant code": "CA25271",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5000.00",
+        "taxes": "6243696.16"
     }
 }
