@@ -1496,5 +1496,19 @@
         "total packages": "1",
         "consignment value": "EUR 13788.00",
         "taxes": "5398119.05"
+    },
+    "70393649010969": {
+        "code": "70393649010969",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753003",
+        "importer/consignee": "ALLAN NJIKHO\r\nFIRST CAPITAL BANK PRIVATE BAG 158\r\nMZUZU MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 9482 of 2025/12/20",
+        "declarant code": "CA25918",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "EUR 20100.00",
+        "taxes": "7394254.31"
     }
 }

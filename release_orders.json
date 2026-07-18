@@ -1175,5 +1175,16 @@
         "declarant": "CA25985",
         "items": "1",
         "taxes": "5368119.00"
+    },
+    "603721886000947": {
+        "code": "603721886000947",
+        "title": "Release Order",
+        "tpin": "71753003",
+        "importer": "ALLAN NJIKHO\r\nFIRST CAPITAL BANK PRIVATE\r\nBAG 158\r\nMZUZU MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 9482 of 20/12/2025",
+        "declarant": "CA25918",
+        "items": "1",
+        "taxes": "7364254.31"
     }
 }
