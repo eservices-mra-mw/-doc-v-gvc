@@ -1510,5 +1510,19 @@
         "total packages": "1",
         "consignment value": "EUR 20100.00",
         "taxes": "7394254.31"
+    },
+    "70502948378621": {
+        "code": "70502948378621",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "PILIANI CLUB\r\nP. O BOX 19, BWENGU\r\nRUMPHI, MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25487 of 2025/08/17",
+        "declarant code": "CA25647",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 15950.00",
+        "taxes": "7979809.59"
     }
 }

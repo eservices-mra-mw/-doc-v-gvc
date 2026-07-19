@@ -1186,5 +1186,16 @@
         "declarant": "CA25918",
         "items": "1",
         "taxes": "7364254.31"
+    },
+    "60392948375621": {
+        "code": "60392948375621",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "PILIANI CLUB\r\nP O BOX 19, BWENGU\r\nRUMPHI, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25487 of 17/08/2025",
+        "declarant": "CA25647",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }
