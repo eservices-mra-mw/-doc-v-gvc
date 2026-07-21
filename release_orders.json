@@ -1230,5 +1230,16 @@
         "declarant": "CA25419",
         "items": "1",
         "taxes": "6868288.33"
+    },
+    "60412476230940": {
+        "code": "60412476230940",
+        "title": "Release Order",
+        "tpin": "43208837",
+        "importer": "PETER KUMWENDA - YAULUMA CLUB\r\nP.O BOX 46 BOLERO\r\nRUMPHI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25267 of 17/11/2025",
+        "declarant": "CA25295",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }
