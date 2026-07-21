@@ -1241,5 +1241,16 @@
         "declarant": "CA25295",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "603922696130097": {
+        "code": "603922696130097",
+        "title": "Release Order",
+        "tpin": "71753003",
+        "importer": "TAFIKA CLUB\r\nP.O BOX 42 WANOZGA VILLAGE\r\nMBALACHANDA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 26812 of 24/04/2026",
+        "declarant": "CA25993",
+        "items": "1",
+        "taxes": "5885254.31"
     }
 }
