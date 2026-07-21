@@ -1274,5 +1274,16 @@
         "declarant": "CA25098",
         "items": "1",
         "taxes": "24192650.51"
+    },
+    "60353301800960": {
+        "code": "60353301800960",
+        "title": "Release Order",
+        "tpin": "70718159",
+        "importer": "Chabenya Club\r\nP.O Box 13\r\nMpherembe\r\nMalawi",
+        "office": "MCHINJI BORDER",
+        "reference": "C 22196 of 08/08/2025",
+        "declarant": "CA25218",
+        "items": "1",
+        "taxes": "0.00"
     }
 }

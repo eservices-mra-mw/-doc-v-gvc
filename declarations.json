@@ -1622,5 +1622,19 @@
         "total packages": "49",
         "consignment value": "USD 11425.33",
         "taxes": "24242650.51"
+    },
+    "70353099804426": {
+        "code": "70353099804426",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70718159",
+        "importer/consignee": "Chabenya Club\r\nP.O.Box 13 Mpherembe\r\nMalawi",
+        "clearance office": "MCHINJI BORDER",
+        "registration reference": "C 22196 of 2025/08/08",
+        "declarant code": "CA25218",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "4",
+        "total packages": "4",
+        "consignment value": "USD  4770.00",
+        "taxes": "0.00"
     }
 }
