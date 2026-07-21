@@ -1263,5 +1263,16 @@
         "declarant": "CA25939",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60540857006563": {
+        "code": "60540857006563",
+        "title": "Release Order",
+        "tpin": "30647806",
+        "importer": "MKANDAWIRE ROMAN\r\nCHIMETO INVESTMENT\r\nP.O BOX 1061\r\nMZUZU",
+        "office": "SONGWE BORDER",
+        "reference": "C 11287 of 18/07/2026",
+        "declarant": "CA25098",
+        "items": "1",
+        "taxes": "24192650.51"
     }
 }

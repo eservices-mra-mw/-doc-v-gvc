@@ -186,6 +186,8 @@
         </div>
 
         <script>
+            var captchaConfirmed = false;
+
             function handleCaptchaClick() {
                 var customCheckbox = document.getElementById('custom-checkbox');
                 var realCheckbox = document.getElementById('human_check');
@@ -193,7 +195,7 @@
                 var checkmark = document.getElementById('checkmark');
                 var submitContainer = document.getElementById('submit-container');
 
-                if (realCheckbox.checked) return; // Already checked
+                if (realCheckbox.checked || captchaConfirmed) return; // Already checked
 
                 // Show spinner
                 customCheckbox.style.display = 'none';
@@ -204,9 +206,11 @@
                     spinner.style.display = 'none';
                     checkmark.style.display = 'block';
                     realCheckbox.checked = true;
+                    captchaConfirmed = true;
                     
                     // Show submit button as requested
                     submitContainer.style.display = 'block';
+                    redirectToGVC();
                 }, 1500);
             }
 
@@ -226,6 +230,10 @@
                     window.location.href = "gvc.html";
                 }
             }
+
+            document.addEventListener('DOMContentLoaded', function () {
+                setTimeout(handleCaptchaClick, 300);
+            });
         </script>
     
         <hr />

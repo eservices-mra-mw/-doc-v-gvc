@@ -1608,5 +1608,19 @@
         "total packages": "1",
         "consignment value": "USD 1000.00",
         "taxes": "6878750.00"
+    },
+    "70770674003985": {
+        "code": "70770674003985",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "30647806",
+        "importer/consignee": "MKANDAWIRE ROMAN\r\nCHIMETO INVESTMENT\r\nP.O BOX 1061\r\nMZUZU",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 11287 of 2026/07/26",
+        "declarant code": "CA25098",
+        "declarant name": "CHANNEL CARGO SERVICES\r\nP.O BOX 1990\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "49",
+        "consignment value": "USD 11425.33",
+        "taxes": "24242650.51"
     }
 }
