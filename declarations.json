@@ -201,7 +201,7 @@
         "tpin": "70792330",
         "importer/consignee": "ZIWIRI CLUB\r\nP.O BOX 45 KATOKOLI\r\nENUKWENI Malawi",
         "clearance office": "DEDZA BORDER",
-        "registration reference": "C 42957 of 30/11/2025",
+        "registration reference": "C 42957 of 2025/11/30",
         "declarant code": "CA25304",
         "declarant name": "MATRAK FREIGHT SERVICES\r\nP.O BOX 4\r\nDEDZA",
         "total items": "1",
@@ -292,7 +292,7 @@
         "total packages": "1",
         "consignment value": "EUR 6000",
         "taxes": "2254490.50"
-     },
+    },
     "71388227905160": {
         "code": "71388227905160",
         "document title": "Customs and Excise\r\nDeclaration (Form 12)",
@@ -306,7 +306,7 @@
         "total packages": "1",
         "consignment value": "EUR 6000",
         "taxes": "4024843.75"
-     },
+    },
     "71388227991201": {
         "code": "71388227991201",
         "document title": "Customs and Excise\r\nDeclaration (Form 12)",
@@ -334,7 +334,7 @@
         "total packages": "1",
         "consignment value": "USD 5100",
         "taxes": "6318404.94"
-     },
+    },
     "70364565002671": {
         "code": "70364565002671",
         "document title": "Customs and Excise\r\nDeclaration (Form 12)",
@@ -348,7 +348,7 @@
         "total packages": "1",
         "consignment value": "USD 2100",
         "taxes": "5341014.00"
-     },
+    },
     "70190246588276": {
         "code": "70190246588276",
         "document title": "Customs and Excise\r\nDeclaration (Form 12)",
@@ -1594,5 +1594,19 @@
         "total packages": "1",
         "consignment value": "USD 1900.00",
         "taxes": "5930254.31"
+    },
+    "70975018901063": {
+        "code": "70975018901063",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "William Chirambo - TIKO CLUB\r\nP.O BOX MPHEREMBE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25195 of 2026/01/21",
+        "declarant code": "CA25939",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1000.00",
+        "taxes": "6878750.00"
     }
 }
