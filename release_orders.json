@@ -1219,5 +1219,16 @@
         "declarant": "CA25309",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60443067042059": {
+        "code": "60443067042059",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "CHAKUDIKA CLUB\r\nBOX 41 PHWAMPHWA\r\nRUMPHI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25723 of 09/09/2025",
+        "declarant": "CA25419",
+        "items": "1",
+        "taxes": "6868288.33"
     }
 }

@@ -1552,5 +1552,19 @@
         "total packages": "1",
         "consignment value": "USD 4000.00",
         "taxes": "8453679.87"
+    },
+    "70323593008950": {
+        "code": "70323593008950",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "CHAKUDIKA CLUB\r\nBOX 41 PHWAMPHWA\r\nRUMPHI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25723 of 2025/09/09",
+        "declarant code": "CA25419",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3300.00",
+        "taxes": "6898288.33"
     }
 }
