@@ -1285,5 +1285,16 @@
         "declarant": "CA25218",
         "items": "4",
         "taxes": "0.00"
+    },
+    "60657137007648": {
+        "code": "60657137007648",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "VIPALAMBA CLUB\r\nP.O BOX 19 BWENGU\r\nRUMPHI MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 11846 of 12/01/2026",
+        "declarant": "CA22574",
+        "items": "1",
+        "taxes": "27751636.25"
     }
 }

@@ -1636,5 +1636,19 @@
         "total packages": "4",
         "consignment value": "USD  4770.00",
         "taxes": "0.00"
+    },
+    "70391065707156": {
+        "code": "70391065707156",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "VIPALAMBA CLUB\r\nP.O BOX 19 BWENGU\r\nRUMPHI MALAWI",
+        "clearance office": "MCHINJI BORDER",
+        "registration reference": "C 11846 of 2026/01/12",
+        "declarant code": "CA22574",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 26000.00",
+        "taxes": "27801636.25"
     }
 }
