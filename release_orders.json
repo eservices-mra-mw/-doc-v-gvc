@@ -1329,5 +1329,16 @@
         "declarant": "CA25951",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60936822700903": {
+        "code": "60936822700903",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "MUGOZGA CLUB\r\nPOST OFFICE BOX 100\r\nRUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25195 of 17/11/2025",
+        "declarant": "CA25039",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
