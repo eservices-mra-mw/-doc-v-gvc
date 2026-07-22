@@ -1650,5 +1650,19 @@
         "total packages": "1",
         "consignment value": "USD 26000.00",
         "taxes": "27801636.25"
+    },
+    "70251966100618": {
+        "code": "70251966100618",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70518265",
+        "importer/consignee": "MWAWANTHU CLUB\r\nBOX 19, BWENGU\r\nBWENGU, MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 8355 of 2025/11/30",
+        "declarant code": "CA25064",
+        "declarant name": "STAGIE FREIGHT SERVICES\r\nPO BOX 1776\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 4500.00",
+        "taxes": "2331875.90"
     }
 }
