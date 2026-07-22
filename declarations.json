@@ -1678,5 +1678,19 @@
         "total packages": "1",
         "consignment value": "USD 7091.00",
         "taxes": "5341014.00"
+    },
+    "70989129001157": {
+        "code": "70989129001157",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "MUGOZGA CLUB\r\nPOST OFFICE BOX 100 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25206 of 2025/12/20",
+        "declarant code": "CA25951",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2175.00",
+        "taxes": "6878750.00"
     }
 }
