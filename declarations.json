@@ -1664,5 +1664,19 @@
         "total packages": "1",
         "consignment value": "USD 4500.00",
         "taxes": "2331875.90"
+    },
+    "70435297004688": {
+        "code": "70435297004688",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70518265",
+        "importer/consignee": "MWAWANTHU CLUB\r\nBWENGU, RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25344 of 2025/11/27",
+        "declarant code": "CA25389",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7091.00",
+        "taxes": "5341014.00"
     }
 }
