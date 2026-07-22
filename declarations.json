@@ -1706,5 +1706,19 @@
         "total packages": "1",
         "consignment value": "USD 5497.00",
         "taxes": "6848750.00"
+    },
+    "70279358570831": {
+        "code": "70279358570831",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70872589",
+        "importer/consignee": "NTCHEMBERE CLUB\r\nEKWENDENI, KAWECHE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2578 of 2025/11/19",
+        "declarant code": "CA25237",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "2",
+        "consignment value": "USD 4606.50",
+        "taxes": "1916811.52"
     }
 }

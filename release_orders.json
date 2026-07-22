@@ -1340,5 +1340,16 @@
         "declarant": "CA25039",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60361576900834": {
+        "code": "60361576900834",
+        "title": "Release Order",
+        "tpin": "70872589",
+        "importer": "NTCHEMBERE CLUB\r\nEKWENDENI, KAWECHE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2578 of 19/11/2025",
+        "declarant": "CA25237",
+        "items": "1",
+        "taxes": "1886811.52"
     }
 }
