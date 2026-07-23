@@ -1720,5 +1720,19 @@
         "total packages": "2",
         "consignment value": "USD 4606.50",
         "taxes": "1916811.52"
+    },
+    "70384291120098": {
+        "code": "70384291120098",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753003",
+        "importer/consignee": "VUCHELANE CLUB\r\nPost Office Box 46 Bolero\r\nRumphi Malawi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25948 of 2025/10/19",
+        "declarant code": "CA25048",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3860.00",
+        "taxes": "7394254.31"
     }
 }

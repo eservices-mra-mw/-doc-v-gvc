@@ -1351,5 +1351,16 @@
         "declarant": "CA25237",
         "items": "1",
         "taxes": "1886811.52"
+    },
+    "603912897192039": {
+        "code": "603912897192039",
+        "title": "Release Order",
+        "tpin": "71753003",
+        "importer": "VUCHELANE CLUB\r\nPost Office Box 46 Bolero\r\nRumphi\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 25948 of 19/10/2025",
+        "declarant": "CA25048",
+        "items": "1",
+        "taxes": "7364254.31"
     }
 }
