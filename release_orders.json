@@ -1362,5 +1362,16 @@
         "declarant": "CA25048",
         "items": "1",
         "taxes": "7364254.31"
+    },
+    "60540837005923": {
+        "code": "60540837005923",
+        "title": "Release Order",
+        "tpin": "3186824",
+        "importer": "CHABAMBA CLUB\r\nBOX 70 KAFUKULE MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 11854 of 18/12/2025",
+        "declarant": "CA22696",
+        "items": "1",
+        "taxes": "6869252.12"
     }
 }
