@@ -1748,5 +1748,19 @@
         "total packages": "1",
         "consignment value": "USD 2933.00",
         "taxes": "6899252.12"
+    },
+    "70770728007469": {
+        "code": "70770728007469",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70699099",
+        "importer/consignee": "EMMA LOMBOLA\r\nP.O BOX 37 EKWENDENI\r\nMZIMBA MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 11976 of 2025/11/2",
+        "declarant code": "CA22794",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1750.00",
+        "taxes": "3770000.00"
     }
 }
