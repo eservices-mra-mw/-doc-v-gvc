@@ -1384,5 +1384,16 @@
         "declarant": "CA22794",
         "items": "1",
         "taxes": "3740000.00"
+    },
+    "60350468800793": {
+        "code": "60350468800793",
+        "title": "Release Order",
+        "tpin": "70872589",
+        "importer": "LUSAKO CLUB\r\nP.O. BOX 922 MZUZU\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 1178 of 19/10/2025",
+        "declarant": "CA25217",
+        "items": "1",
+        "taxes": "6715938.46"
     }
 }

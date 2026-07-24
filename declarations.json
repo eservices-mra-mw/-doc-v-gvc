@@ -1762,5 +1762,19 @@
         "total packages": "1",
         "consignment value": "USD 1750.00",
         "taxes": "3770000.00"
+    },
+    "70261278560829": {
+        "code": "70261278560829",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70872589",
+        "importer/consignee": "LUSAKO CLUB\r\nP.O. BOX 922 MZUZU\r\nMalawi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 1178 of 2025/10/19",
+        "declarant code": "CA25217",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "298",
+        "consignment value": "USD 4246.50",
+        "taxes": "6745938.46"
     }
 }
