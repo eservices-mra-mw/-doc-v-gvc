@@ -1776,5 +1776,19 @@
         "total packages": "298",
         "consignment value": "USD 4246.50",
         "taxes": "6745938.46"
+    },
+    "70360110021495": {
+        "code": "70360110021495",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "MBOKA KASEWE\r\nBOX 44 KASUMULU\r\nTANZANIA",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2496 of 2024/04/24",
+        "declarant code": "CA24918",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3870.00",
+        "taxes": "6878750.00"
     }
 }

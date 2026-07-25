@@ -1395,5 +1395,16 @@
         "declarant": "CA25217",
         "items": "1",
         "taxes": "6715938.46"
+    },
+    "60234609760219": {
+        "code": "60234609760219",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "MBOKA KASEWE\r\nP.O BOX 44 KASUMULU\r\nTANZANIA",
+        "office": "SONGWE BORDER",
+        "reference": "C 2496 of 24/04/2024",
+        "declarant": "CA24918",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
