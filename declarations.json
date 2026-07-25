@@ -1790,5 +1790,19 @@
         "total packages": "1",
         "consignment value": "USD 3870.00",
         "taxes": "6878750.00"
+    },
+    "70390065700696": {
+        "code": "70390065700696",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "VIPALAMBA CLUB\r\nP.O BOX 19 BWENGU\r\nRUMPHI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 11896 of 2025/10/15",
+        "declarant code": "CA22648",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 23000.00",
+        "taxes": "23816900.74"
     }
 }
