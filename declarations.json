@@ -1804,5 +1804,19 @@
         "total packages": "1",
         "consignment value": "USD 23000.00",
         "taxes": "23816900.74"
+    },
+    "70391564200992": {
+        "code": "70391564200992",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70984127",
+        "importer/consignee": "DR. HARRY MITHI\r\nP.O BOX 4, MPHEREMBE\r\nMalawi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25728 of 2025/10/19",
+        "declarant code": "CA25833",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 13000.00",
+        "taxes": "2905000.00"
     }
 }
