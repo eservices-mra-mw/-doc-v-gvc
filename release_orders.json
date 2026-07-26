@@ -1428,5 +1428,16 @@
         "declarant": "CA25833",
         "items": "1",
         "taxes": "2875000.00"
+    },
+    "60743481529864": {
+        "code": "60743481529864",
+        "title": "Release Order",
+        "tpin": "70984127",
+        "importer": "DR HARRY MITHI\r\nP.O BOX 4, MPHEREMBE\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 36110 of 17/11/2025",
+        "declarant": "CA35532",
+        "items": "1",
+        "taxes": "800361.78"
     }
 }
