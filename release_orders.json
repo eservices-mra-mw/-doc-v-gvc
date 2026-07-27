@@ -1439,5 +1439,16 @@
         "declarant": "CA35532",
         "items": "1",
         "taxes": "800361.78"
+    },
+    "60657417080089": {
+        "code": "60657417080089",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "Wanangwa Club\r\nP.O Box 187 Rumphi,\r\nMalawi",
+        "office": "DEDZA BORDER",
+        "reference": "C 25397 of 20/12/2025",
+        "declarant": "CA25398",
+        "items": "1",
+        "taxes": "4308412.50"
     }
 }

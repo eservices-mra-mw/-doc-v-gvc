@@ -1832,5 +1832,19 @@
         "total packages": "1",
         "consignment value": "USD 5500.00",
         "taxes": "830361.78"
+    },
+    "70591577822594": {
+        "code": "70591577822594",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "Wanangwa Club\r\nP.O Box 187 Rumphi,\r\nMalawi",
+        "clearance office": "DEDZA BORDER",
+        "registration reference": "C 25397 of 2025/12/20",
+        "declarant code": "CA25398",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1200.00",
+        "taxes": "4338412.50"
     }
 }
