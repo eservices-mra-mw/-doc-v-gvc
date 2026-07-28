@@ -1472,5 +1472,16 @@
         "declarant": "CA25929",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60712347240052": {
+        "code": "60712347240052",
+        "title": "Release Order",
+        "tpin": "71237898",
+        "importer": "Watson Nkhonjera (Yakhobe Estate)\r\nP.O box 38, Mphelembe\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25087 of 21/11/2025",
+        "declarant": "CA25436",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }
