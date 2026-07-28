@@ -1846,5 +1846,19 @@
         "total packages": "1",
         "consignment value": "USD 1200.00",
         "taxes": "4338412.50"
+    },
+    "70261247460639": {
+        "code": "70261247460639",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70365559",
+        "importer/consignee": "MUGULULUKA HOLDINGS LTD\r\nPO BOX 300 MZUZU\r\nMALAWI",
+        "clearance office": "DEDZA BORDER",
+        "registration reference": "C 1178 of 2023/04/15",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "8",
+        "consignment value": "ZAR 190000.00",
+        "taxes": "3486980.00"
     }
 }

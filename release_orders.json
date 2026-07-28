@@ -1450,5 +1450,16 @@
         "declarant": "CA25398",
         "items": "1",
         "taxes": "4308412.50"
+    },
+    "60350465800923": {
+        "code": "60350465800923",
+        "title": "Release Order",
+        "tpin": "70365559",
+        "importer": "MUGULULUKA HOLDINGS LTD\r\nPO BOX 300 MZUZU\r\nMALAWI",
+        "office": "DEDZA BORDER",
+        "reference": "C 1178 of 15/04/2023",
+        "declarant": "CA23145",
+        "items": "1",
+        "taxes": "3456980.00"
     }
 }
