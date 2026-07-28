@@ -1860,5 +1860,19 @@
         "total packages": "8",
         "consignment value": "ZAR 190000.00",
         "taxes": "3486980.00"
+    },
+    "70360850122906": {
+        "code": "70360850122906",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70539154",
+        "importer/consignee": "UNDANI CLUB\r\nPO BOX 48 ENGUCWIN\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25196 of 2025/08/17",
+        "declarant code": "CA25929",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 10000.00",
+        "taxes": "6878750.00"
     }
 }

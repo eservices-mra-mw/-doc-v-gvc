@@ -1461,5 +1461,16 @@
         "declarant": "CA23145",
         "items": "1",
         "taxes": "3456980.00"
+    },
+    "60238709903220": {
+        "code": "60238709903220",
+        "title": "Release Order",
+        "tpin": "70539154",
+        "importer": "UNDANI CLUB\r\nPO BOX 48 ENGUCWIN\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25196 of 17/08/2025",
+        "declarant": "CA25929",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
