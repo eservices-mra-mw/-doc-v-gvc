@@ -1483,5 +1483,16 @@
         "declarant": "CA25436",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60379819004331": {
+        "code": "60379819004331",
+        "title": "Release Order",
+        "tpin": "70539154",
+        "importer": "FREDERICK C.P NYIRENDA\r\nPOST OFFICE BOX 43 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25271 of 14/10/2025",
+        "declarant": "CA25029",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
