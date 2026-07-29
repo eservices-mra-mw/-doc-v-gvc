@@ -1902,5 +1902,19 @@
         "total packages": "1",
         "consignment value": "USD 4195.00",
         "taxes": "6848750.00"
+    },
+    "70382970464028": {
+        "code": "70382970464028",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713945",
+        "importer/consignee": "KWACHA JUNIOR MACHAMO\r\nBOX 3 KAZUNI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25382 of 2025/10/19",
+        "declarant code": "CA25139",
+        "declarant name": "FREIGHT CAFE LOGISTICS\r\nP.O BOX 15 KARONGA\r\nMALAWI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 4116.00",
+        "taxes": "6848750.00"
     }
 }

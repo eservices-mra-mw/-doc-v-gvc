@@ -1494,5 +1494,16 @@
         "declarant": "CA25029",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60389920105442": {
+        "code": "60389920105442",
+        "title": "Release Order",
+        "tpin": "70713945",
+        "importer": "KWACHA JUNIOR MACHAMO\r\nBOX 3 KAZUNI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25382 of 19/10/2025",
+        "declarant": "CA25139",
+        "items": "1",
+        "taxes": "6848750.00"
     }
 }
