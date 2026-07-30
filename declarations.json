@@ -1916,5 +1916,19 @@
         "total packages": "1",
         "consignment value": "USD 4116.00",
         "taxes": "6848750.00"
+    },
+    "70372358570940": {
+        "code": "70372358570940",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "MANUEL JNR DE JESUS\r\nPO BOX 531 LUSANGAZI\r\nMZUZU",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2778 of 2023/06/15",
+        "declarant code": "CA23245",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "ZAR 300999.00",
+        "taxes": "13379322.90"
     }
 }

@@ -1505,5 +1505,16 @@
         "declarant": "CA25139",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60461566901034": {
+        "code": "60461566901034",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "MANUEL JNR DE JESUS\r\nPO BOX 531 LUSANGAZI\r\nMZUZU",
+        "office": "SONGWE BORDER",
+        "reference": "C 2778 of 15/06/2023",
+        "declarant": "CA23245",
+        "items": "1",
+        "taxes": "13364322.90"
     }
 }
