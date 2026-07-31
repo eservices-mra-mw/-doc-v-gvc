@@ -1930,5 +1930,19 @@
         "total packages": "1",
         "consignment value": "ZAR 300999.00",
         "taxes": "13379322.90"
+    },
+    "70392019287014": {
+        "code": "70392019287014",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70719433",
+        "importer/consignee": "TULIMUDONGO CLUB\r\nP.O BOX 19, RUMPHI,\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25714 of 2025/12/13",
+        "declarant code": "CA25309",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 8600.00",
+        "taxes": "7979809.59"
     }
 }

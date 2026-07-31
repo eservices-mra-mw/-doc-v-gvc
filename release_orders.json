@@ -1516,5 +1516,16 @@
         "declarant": "CA23245",
         "items": "1",
         "taxes": "13364322.90"
+    },
+    "60599248330095": {
+        "code": "60599248330095",
+        "title": "Release Order",
+        "tpin": "70719433",
+        "importer": "TULIMUDONGO CLUB\r\nP.O BOX 19, RUMPHI,\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25714 of 13/12/2025",
+        "declarant": "CA25309",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }
