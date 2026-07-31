@@ -1527,5 +1527,16 @@
         "declarant": "CA25309",
         "items": "1",
         "taxes": "7949809.59"
+    },
+    "60253526702000": {
+        "code": "60253526702000",
+        "title": "Release Order",
+        "tpin": "40699300",
+        "importer": "CHAKUDIKA CLUB\r\nPO BOX 41, Rumphi (Malawi)\r\nRumphi",
+        "office": "SONGWE BORDER",
+        "reference": "C 45293 of 17/12/2025",
+        "declarant": "CA25304",
+        "items": "1",
+        "taxes": "7909805.00"
     }
 }

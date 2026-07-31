@@ -1944,5 +1944,19 @@
         "total packages": "1",
         "consignment value": "USD 8600.00",
         "taxes": "7979809.59"
+    },
+    "70253524102986": {
+        "code": "70253524102986",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "40699300",
+        "importer/consignee": "CHAKUDIKA CLUB\r\nPO BOX 41, Rumphi (Malawi)\r\nRumphi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 45293 of 2025/12/17",
+        "declarant code": "CA25304",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7100.00",
+        "taxes": "7939805.00"
     }
 }
