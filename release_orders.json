@@ -1560,5 +1560,16 @@
         "declarant": "CA25049",
         "items": "1",
         "taxes": "6848750.00"
+    },
+    "60361815190936": {
+        "code": "60361815190936",
+        "title": "Release Order",
+        "tpin": "30970695",
+        "importer": "MUSAIWARE CLUB\r\nPO BOX 57 ENGUCWIN\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 25365 of 13/12/2025",
+        "declarant": "CA25904",
+        "items": "1",
+        "taxes": "3947852.31"
     }
 }
