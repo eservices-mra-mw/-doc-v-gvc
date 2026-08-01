@@ -1538,5 +1538,16 @@
         "declarant": "CA25304",
         "items": "1",
         "taxes": "7909805.00"
+    },
+    "60601359469106": {
+        "code": "60601359469106",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "LUSUNGU CLUB\r\nP.O Box 33 Karonga,\r\nMalawi",
+        "office": "SONGWE BORDER",
+        "reference": "C 25725 of 09/09/2025",
+        "declarant": "CA25320",
+        "items": "1",
+        "taxes": "7949809.59"
     }
 }

@@ -1958,5 +1958,19 @@
         "total packages": "1",
         "consignment value": "USD 7100.00",
         "taxes": "7939805.00"
+    },
+    "70304120390028": {
+        "code": "70304120390028",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "LUSUNGU CLUB\r\nP.O Box 33 Karonga,\r\nMalawi",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25725 of 2025/09/09",
+        "declarant code": "CA25320",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5100.00",
+        "taxes": "7979809.59"
     }
 }
