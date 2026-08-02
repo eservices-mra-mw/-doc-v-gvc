@@ -1582,5 +1582,16 @@
         "declarant": "CA25620",
         "items": "1",
         "taxes": "2461192.37"
+    },
+    "60472926200147": {
+        "code": "60472926200147",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "GOMANI CLUB - SAMUEL NYIRENDA\r\nP.O BOX 12 MPHEREMBE, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25375 of 26/09/2025",
+        "declarant": "CA25014",
+        "items": "1",
+        "taxes": "3947852.31"
     }
 }

@@ -2014,5 +2014,19 @@
         "total packages": "7",
         "consignment value": "USD 1784.00",
         "taxes": "2491192.37"
+    },
+    "70261757110958": {
+        "code": "70261757110958",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "GOMANI CLUB\r\nP.O.BOX MPHEREMBE\r\nMZIMBA",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25375 of 2025/09/26",
+        "declarant code": "CA25014",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1100.00",
+        "taxes": "3977852.31"
     }
 }
