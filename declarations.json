@@ -2000,5 +2000,19 @@
         "total packages": "1",
         "consignment value": "USD 1650.00",
         "taxes": "3977852.31"
+    },
+    "70312296790310": {
+        "code": "70312296790310",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71040259",
+        "importer/consignee": "GOMANI CLUB\r\nP.O.BOX MPHEREMBE\r\nMZIMBA",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 26185 of 2025/10/14",
+        "declarant code": "CA25620",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "7",
+        "consignment value": "USD 1784.00",
+        "taxes": "2491192.37"
     }
 }

@@ -1571,5 +1571,16 @@
         "declarant": "CA25904",
         "items": "1",
         "taxes": "3947852.31"
+    },
+    "60238066708016": {
+        "code": "60238066708016",
+        "title": "Release Order",
+        "tpin": "71040259",
+        "importer": "GOMANI CLUB\r\nP.O.BOX MPHEREMBE\r\nMZIMBA",
+        "office": "SONGWE BORDER",
+        "reference": "C 26185 of 14/10/2025",
+        "declarant": "CA25620",
+        "items": "1",
+        "taxes": "2461192.37"
     }
 }
