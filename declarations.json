@@ -2028,5 +2028,19 @@
         "total packages": "1",
         "consignment value": "USD 1100.00",
         "taxes": "3977852.31"
+    },
+    "70372256210830": {
+        "code": "70372256210830",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70753003",
+        "importer/consignee": "CHIPIRIRO THOM SANUDI - CHIPIE TRADING,\r\nP/BAG MZUZU, MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 11645 of 2025/11/21",
+        "declarant code": "CA25224",
+        "declarant name": "KT CUSTOMS CLEARING AND FORWARDING\r\nP.O BOX 1\r\nSONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7100.00",
+        "taxes": "7069405.00"
     }
 }

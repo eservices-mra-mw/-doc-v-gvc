@@ -1593,5 +1593,16 @@
         "declarant": "CA25014",
         "items": "1",
         "taxes": "3947852.31"
+    },
+    "60361515020822": {
+        "code": "60361515020822",
+        "title": "Release Order",
+        "tpin": "70753003",
+        "importer": "CHIPIRIRO THOM SANUDI - CHIPIE TRADING,\r\nP/BAG MZUZU, MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 11645 of 21/11/2025 ",
+        "declarant": "CA25224",
+        "items": "1",
+        "taxes": "7039405.00"
     }
 }
