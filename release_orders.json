@@ -1600,8 +1600,19 @@
         "tpin": "70753003",
         "importer": "MANYATWAKO CLUB\r\nP.O BOX 30 KATUMBI,\r\nRUMPHI MALAWI",
         "office": "SONGWE BORDER",
-        "reference": "C 11645 of 21/11/2025 ",
+        "reference": "C 11645 of 21/11/2025",
         "declarant": "CA25224",
+        "items": "1",
+        "taxes": "7039405.00"
+    },
+    "60371807150934": {
+        "code": "60371807150934",
+        "title": "Release Order",
+        "tpin": "41367215",
+        "importer": "TIYANJANE CLUB / DICKSON MOYO\r\nP.O. BOX 13 MPHEREMBE, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 1175 of 17/08/2025",
+        "declarant": "CA25194",
         "items": "1",
         "taxes": "7039405.00"
     }
