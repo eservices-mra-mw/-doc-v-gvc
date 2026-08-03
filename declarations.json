@@ -2056,5 +2056,19 @@
         "total packages": "1",
         "consignment value": "USD 2900.00",
         "taxes": "7069405.00"
+    },
+    "70502948375621": {
+        "code": "70502948375621",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "20178209",
+        "importer/consignee": "BATTERY CARE CENTRE LTD\r\nPO BOX 30336 BLANTYRE, Blantyre (Malawi)\r\nBlantyre",
+        "clearance office": "MWANZA BORDER",
+        "registration reference": "C 24350 of 2025/11/25",
+        "declarant code": "CA25270",
+        "declarant name": "FOCUT FREIGHT LOGISTICS\r\nP.O. BOX 40370\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "60",
+        "consignment value": "USD 6491.00",
+        "taxes": "13565187.85"
     }
 }
