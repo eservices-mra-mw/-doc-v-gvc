@@ -1637,5 +1637,16 @@
         "declarant": "CA25374",
         "items": "1",
         "taxes": "17729436.71"
+    },
+    "60681805323056": {
+        "code": "60681805323056",
+        "title": "Release Order",
+        "tpin": "31255393",
+        "importer": "ZIWANDA CLUB\r\nP.O BOX 347\r\nMZUZU",
+        "office": "SONGWE BORDER",
+        "reference": "C 1256 of 29/07/2026",
+        "declarant": "CA25145",
+        "items": "1",
+        "taxes": "2577500.26"
     }
 }

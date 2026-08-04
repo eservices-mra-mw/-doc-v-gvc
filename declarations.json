@@ -2084,5 +2084,19 @@
         "total packages": "1",
         "consignment value": "USD 11289.00",
         "taxes": "17759436.71"
+    },
+    "70484560484552": {
+        "code": "70484560484552",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31255393",
+        "importer/consignee": "ZIWANDA CLUB\r\nP.O BOX 347\r\nMZUZU",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 1256 of 2025/07/29",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5000.00",
+        "taxes": "2627500.12"
     }
 }
