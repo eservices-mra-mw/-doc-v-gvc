@@ -2098,5 +2098,19 @@
         "total packages": "1",
         "consignment value": "USD 5000.00",
         "taxes": "2627500.12"
+    },
+    "70735534636068": {
+        "code": "70735534636068",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "43197582",
+        "importer/consignee": "TAMBAPO CLUB\r\nP.O BOX 57, ENGUCWIN\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 1256 of 2025/07/29",
+        "declarant code": "47322",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5720.00",
+        "taxes": "7008335.01"
     }
 }
