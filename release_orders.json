@@ -1626,5 +1626,16 @@
         "declarant": "CA25270",
         "items": "1",
         "taxes": "13535187.85"
+    },
+    "60362778380045": {
+        "code": "60362778380045",
+        "title": "Release Order",
+        "tpin": "70134491",
+        "importer": "CHIZAMSOKA CLUB\r\nBOX 46, BOLERO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 29175 of 11/09/2025",
+        "declarant": "CA25374",
+        "items": "1",
+        "taxes": "17729436.71"
     }
 }
