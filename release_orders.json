@@ -1692,5 +1692,16 @@
         "declarant": "CA25145",
         "items": "1",
         "taxes": "5013881.12"
+    },
+    "60460583911834": {
+        "code": "60460583911834",
+        "title": "Release Order",
+        "tpin": "31642079",
+        "importer": "STOCKER CHIHANA - GRACHA CLUB\r\nP O BOX 12 BOLERO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 1256 of 28/07/2026",
+        "declarant": "CA25145",
+        "items": "1",
+        "taxes": "2036704.00"
     }
 }

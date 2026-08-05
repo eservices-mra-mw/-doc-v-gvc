@@ -2154,5 +2154,19 @@
         "total packages": "1",
         "consignment value": "USD 3200.00",
         "taxes": "5063881.12"
+    },
+    "70261258572830": {
+        "code": "70261258572830",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31642079",
+        "importer/consignee": "STOCKER CHIHANA - GRACHA CLUB\r\nP O BOX 12 BOLERO RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 1256 of 2026/07/28",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 9800.00",
+        "taxes": "2086704.00"
     }
 }
