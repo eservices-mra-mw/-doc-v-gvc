@@ -2126,5 +2126,19 @@
         "total packages": "1",
         "consignment value": "USD 9340.00",
         "taxes": "11305017.73"
+    },
+    "70486568674522": {
+        "code": "70486568674522",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31255393",
+        "importer/consignee": "JIMMY MAC LAZARUS BANDA - NDACHILA PRIVATE CLINIC\r\nBLANTYRE\r\nN/A",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 12957 of 2025/07/29",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7000.00",
+        "taxes": "10725460.68"
     }
 }
