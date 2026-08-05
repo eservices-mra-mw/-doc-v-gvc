@@ -1681,5 +1681,16 @@
         "declarant": "CA25145",
         "items": "1",
         "taxes": "10675460.68"
+    },
+    "60570694212945": {
+        "code": "60570694212945",
+        "title": "Release Order",
+        "tpin": "31255393",
+        "importer": "JIMMY MAC LAZARUS BANDA - NDACHILA PRIVATE CLINIC\r\nBLANTYRE\r\nN/A",
+        "office": "SONGWE BORDER",
+        "reference": "C 1256 of 29/07/2026",
+        "declarant": "CA25145",
+        "items": "1",
+        "taxes": "5013881.12"
     }
 }
