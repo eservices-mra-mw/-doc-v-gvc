@@ -2106,11 +2106,25 @@
         "importer/consignee": "TAMBAPO CLUB\r\nP.O BOX 57, ENGUCWIN\r\nMALAWI",
         "clearance office": "SONGWE BORDER",
         "registration reference": "C 1256 of 2025/07/29",
-        "declarant code": "47322",
+        "declarant code": "CA47322",
         "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
         "total items": "1",
         "total packages": "1",
         "consignment value": "USD 5720.00",
         "taxes": "7008335.01"
+    },
+    "70372386201839": {
+        "code": "70372386201839",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70153003",
+        "importer/consignee": "MUJIPIME CLUB\r\nBOX 18 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 21665 of 2025/08/23",
+        "declarant code": "CA25269",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 9340.00",
+        "taxes": "11305017.73"
     }
 }

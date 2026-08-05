@@ -1659,5 +1659,16 @@
         "declarant": "CA24754",
         "items": "1",
         "taxes": "6978335.01"
+    },
+    "60461528900834": {
+        "code": "60461528900834",
+        "title": "Release Order",
+        "tpin": "70153003",
+        "importer": "MUJIPIME CLUB\r\nBOX 18 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 21665 of 23/08/2025",
+        "declarant": "CA25269",
+        "items": "1",
+        "taxes": "11275017.73"
     }
 }
