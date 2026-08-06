@@ -1725,5 +1725,16 @@
         "declarant": "CA24754",
         "items": "1",
         "taxes": "3619133.44"
+    },
+    "60571987012945": {
+        "code": "60571987012945",
+        "title": "Release Order",
+        "tpin": "70396681",
+        "importer": "MUKHOMEZGENGE CLUB\r\nP.O. BOX 41 PHWAMPHWA, RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 41768 of 25/07/2025",
+        "declarant": "CA25217",
+        "items": "1",
+        "taxes": "832162.05"
     }
 }
