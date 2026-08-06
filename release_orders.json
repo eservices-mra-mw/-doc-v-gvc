@@ -1714,5 +1714,16 @@
         "declarant": "CA25145",
         "items": "1",
         "taxes": "2329853.00"
+    },
+    "60966004763457": {
+        "code": "60966004763457",
+        "title": "Release Order",
+        "tpin": "71753004",
+        "importer": "MWAWI CLUB\r\nP.O BOX 41 MPHWAMPHWA RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48343 of 13/12/2025",
+        "declarant": "CA24754",
+        "items": "1",
+        "taxes": "3619133.44"
     }
 }
