@@ -1758,5 +1758,16 @@
         "declarant": "CA25754",
         "items": "1",
         "taxes": "3404471.78"
+    },
+    "60460876901834": {
+        "code": "60460876901834",
+        "title": "Release Order",
+        "tpin": "70396681",
+        "importer": "MULONDANJI ESTATE - NIXON MKANDAWIRE\r\nP.O. BOX 46 NG'ONGA RUMPHI,\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 21178 of 25/08/2025",
+        "declarant": "CA25217",
+        "items": "1",
+        "taxes": "284930.78"
     }
 }

@@ -2238,5 +2238,19 @@
         "total packages": "1",
         "consignment value": "USD 2000.00",
         "taxes": "3434471.78"
+    },
+    "70372488571430": {
+        "code": "70372488571430",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70396681",
+        "importer/consignee": "MULONDANJI ESTATE - NIXON MKANDAWIRE\r\nP.O. BOX 46 NG'ONGA RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 21178 of 2025/08/25",
+        "declarant code": "CA25217",
+        "declarant name": "FRETCHER'S FREIGHT\r\nP.O BOX 1939\r\nMZUZU",
+        "total items": "1",
+        "total packages": "22",
+        "consignment value": "USD 5075.00",
+        "taxes": "314930.78"
     }
 }
