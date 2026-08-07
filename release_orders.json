@@ -1747,5 +1747,16 @@
         "declarant": "CA25987",
         "items": "1",
         "taxes": "7112378.44"
+    },
+    "60854992632346": {
+        "code": "60854992632346",
+        "title": "Release Order",
+        "tpin": "71753114",
+        "importer": "AMOSS BENJAMIN - MINISTRY OF LABOUR,\r\nP BAG 44 , LILONGWE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48332 of 01/08/2026",
+        "declarant": "CA25754",
+        "items": "1",
+        "taxes": "3404471.78"
     }
 }

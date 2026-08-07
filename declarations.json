@@ -2224,5 +2224,19 @@
         "total packages": "1",
         "consignment value": "USD 4500.00",
         "taxes": "7142378.44"
+    },
+    "70624432525957": {
+        "code": "70624432525957",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753114",
+        "importer/consignee": "AMOSS BENJAMIN - MINISTRY OF LABOUR,\r\nP BAG 44 , LILONGWE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 48332 of 2026/08/01",
+        "declarant code": "CA25754",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2000.00",
+        "taxes": "3434471.78"
     }
 }
