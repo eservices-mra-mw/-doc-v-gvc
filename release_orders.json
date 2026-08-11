@@ -1769,5 +1769,16 @@
         "declarant": "CA25217",
         "items": "1",
         "taxes": "284930.78"
+    },
+    "60801276545367": {
+        "code": "60801276545367",
+        "title": "Release Order",
+        "tpin": "31255393",
+        "importer": "KASOKOLOWE CLUB,\r\nP.O BOX 173 MADISI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 32256 of 01/08/2026",
+        "declarant": "CA25145",
+        "items": "1",
+        "taxes": "9101726.00"
     }
 }

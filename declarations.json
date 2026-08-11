@@ -2252,5 +2252,19 @@
         "total packages": "22",
         "consignment value": "USD 5075.00",
         "taxes": "314930.78"
+    },
+    "70690586169976": {
+        "code": "70690586169976",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31255393",
+        "importer/consignee": "KASOKOLOWE CLUB,\r\nP.O BOX 173 MADISI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 32256 of 2026/08/01",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "160",
+        "consignment value": "USD 9000.00",
+        "taxes": "9154726.00"
     }
 }
