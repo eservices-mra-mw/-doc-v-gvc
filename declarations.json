@@ -2294,5 +2294,19 @@
         "total packages": "1",
         "consignment value": "USD 5287.00",
         "taxes": "6350944.50"
+    },
+    "70959807659694": {
+        "code": "70959807659694",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753334",
+        "importer/consignee": "MADALITSO CLUB\r\nP.O BOX 12 MPHEREMBE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 49162 of 2025/10/28",
+        "declarant code": "CA25854",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 12408.00",
+        "taxes": "29001122.64"
     }
 }
