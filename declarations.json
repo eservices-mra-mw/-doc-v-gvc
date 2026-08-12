@@ -2280,5 +2280,19 @@
         "total packages": "1",
         "consignment value": "USD 1100.00",
         "taxes": "1347445.03"
+    },
+    "70939807149689": {
+        "code": "70939807149689",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753234",
+        "importer/consignee": "CHITUKUKO CLUB\r\nP.O BOX 113 ZOMBWE EPA EKWENDENI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 48452 of 2025/12/17",
+        "declarant code": "CA24754",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5287.00",
+        "taxes": "6350944.50"
     }
 }

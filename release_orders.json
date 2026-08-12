@@ -1791,5 +1791,16 @@
         "declarant": "CA25145",
         "items": "1",
         "taxes": "1297445.03"
+    },
+    "60979532192988": {
+        "code": "60979532192988",
+        "title": "Release Order",
+        "tpin": "71753234",
+        "importer": "CHITUKUKO CLUB\r\nP.O BOX 113 ZOMBWE EPA\r\nEKWENDENI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48452 of 17/12/2025",
+        "declarant": "CA24754",
+        "items": "1",
+        "taxes": "6320944.50"
     }
 }
