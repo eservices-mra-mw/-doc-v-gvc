@@ -2266,5 +2266,19 @@
         "total packages": "160",
         "consignment value": "USD 9000.00",
         "taxes": "9154726.00"
+    },
+    "70576449958455": {
+        "code": "70576449958455",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71255394",
+        "importer/consignee": "KAMPHUKUTU CLUB JTI\r\nEMSIZINI EPA, MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 42256 of 2025/11/29",
+        "declarant code": "CA25145",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 1100.00",
+        "taxes": "1347445.03"
     }
 }
