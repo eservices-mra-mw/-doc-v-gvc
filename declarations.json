@@ -2322,5 +2322,19 @@
         "total packages": "1",
         "consignment value": "USD 4455.00",
         "taxes": "10154713.74"
+    },
+    "70939658229689": {
+        "code": "70939658229689",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71754234",
+        "importer/consignee": "PABANO CLUB - MSOWOYA VILLAGE\r\nP.O BOX 38 BOLERO RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 48535 of 2026/01/17",
+        "declarant code": "CA25972",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 10400.00",
+        "taxes": "10686168.00"
     }
 }

@@ -1824,5 +1824,16 @@
         "declarant": "CA24754",
         "items": "1",
         "taxes": "10124713.74"
+    },
+    "60979567598709": {
+        "code": "60979567598709",
+        "title": "Release Order",
+        "tpin": "71754234",
+        "importer": "PABANO CLUB - MSOWOYA VILLAGE\r\nP.O BOX 38 BOLERO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48535 of 17/01/2026",
+        "declarant": "CA25972",
+        "items": "1",
+        "taxes": "10656168.00"
     }
 }
