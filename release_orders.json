@@ -1813,5 +1813,16 @@
         "declarant": "CA25854",
         "items": "1",
         "taxes": "28971122.64"
+    },
+    "60979563598709": {
+        "code": "60979563598709",
+        "title": "Release Order",
+        "tpin": "71753234",
+        "importer": "NKHOPA CLUB\r\nP.O BOX 51 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48445 of 17/11/2025",
+        "declarant": "CA24754",
+        "items": "1",
+        "taxes": "10124713.74"
     }
 }
