@@ -1835,5 +1835,16 @@
         "declarant": "CA25972",
         "items": "1",
         "taxes": "10656168.00"
+    },
+    "60979674609810": {
+        "code": "60979674609810",
+        "title": "Release Order",
+        "tpin": "71753534",
+        "importer": "MWADZAWANJI CLUB\r\nP.O BOX MCHINJI (Malawi)\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48450 of 28/10/2025",
+        "declarant": "CA24854",
+        "items": "1",
+        "taxes": "7618047.95"
     }
 }
