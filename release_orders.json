@@ -1846,5 +1846,16 @@
         "declarant": "CA24854",
         "items": "1",
         "taxes": "7618047.95"
+    },
+    "60859387943483": {
+        "code": "60859387943483",
+        "title": "Release Order",
+        "tpin": "71753234",
+        "importer": "NKHWENDANKHULIRA CLUB\r\nP.O. BOX 63 ENGUCWINI\r\nMZIMBA",
+        "office": "SONGWE BORDER",
+        "reference": "C 83948 of 09/01/2026",
+        "declarant": "CA35356",
+        "items": "1",
+        "taxes": "4427811.79"
     }
 }
