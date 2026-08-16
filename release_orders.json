@@ -1857,5 +1857,16 @@
         "declarant": "CA35356",
         "items": "1",
         "taxes": "4427811.79"
+    },
+    "60929292432928": {
+        "code": "60929292432928",
+        "title": "Release Order",
+        "tpin": "71753234",
+        "importer": "SIGN & VAISON CHIMA-KAMPHUKUTU CLUB JTI\r\nEMSIZINI EPA MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48432 of 17/11/2025",
+        "declarant": "CA24754",
+        "items": "1",
+        "taxes": "10943675.88"
     }
 }
