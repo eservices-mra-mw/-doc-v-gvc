@@ -1868,5 +1868,16 @@
         "declarant": "CA24754",
         "items": "1",
         "taxes": "10943675.88"
+    },
+    "60969002290687": {
+        "code": "60969002290687",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "TCHACHI CLUB\r\nP.O BOX 42, ENUKWENI, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 48442 of 18/12/2025",
+        "declarant": "CA25768",
+        "items": "1",
+        "taxes": "6690715.75"
     }
 }
