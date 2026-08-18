@@ -50,7 +50,8 @@ const serveFile = (res, filePath, contentType) => {
 };
 
 const server = http.createServer((req, res) => {
-  let filePath = path.join(WEB_ROOT, req.url === '/' ? 'index.html' : req.url);
+  const urlPath = req.url.split('?')[0].split('#')[0];
+  let filePath = path.join(WEB_ROOT, urlPath === '/' ? 'index.html' : urlPath);
   
   console.log(`[${req.method}] ${req.url}`);
   
@@ -76,7 +77,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, 'localhost', () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`Server running at http://localhost:${PORT}/`);
   console.log('Press Ctrl+C to stop');
 });
