@@ -1890,5 +1890,16 @@
         "declarant": "CA25909",
         "items": "1",
         "taxes": "2846211.40"
+    },
+    "60959875711921": {
+        "code": "60959875711921",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "CHITUKOKO CLUB - OBVIOUS KANYINJI\r\nMZIMBA (Malawi)\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 38450 of 28/12/2025",
+        "declarant": "CA25124",
+        "items": "1",
+        "taxes": "2119354.52"
     }
 }
