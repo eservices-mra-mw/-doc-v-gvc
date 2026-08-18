@@ -1901,5 +1901,16 @@
         "declarant": "CA25124",
         "items": "1",
         "taxes": "2119354.52"
+    },
+    "60563685143946": {
+        "code": "60563685143946",
+        "title": "Release Order",
+        "tpin": "72642081",
+        "importer": "TAONGA MEMORY MWANZA\r\nP O BOX 45 ENUKWENI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 34296 of 18/12/2025",
+        "declarant": "CA25167",
+        "items": "1",
+        "taxes": "3535209.15"
     }
 }
