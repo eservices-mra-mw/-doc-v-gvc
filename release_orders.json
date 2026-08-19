@@ -1934,5 +1934,16 @@
         "declarant": "CA25677",
         "items": "1",
         "taxes": "2611208.00"
+    },
+    "60979722699082": {
+        "code": "60979722699082",
+        "title": "Release Order",
+        "tpin": "71753335",
+        "importer": "KONDWANI CLUB\r\nP.O BOX 138 BOLERO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 49162 of 28/11/2025",
+        "declarant": "CA24754",
+        "items": "1",
+        "taxes": "9978106.80"
     }
 }
