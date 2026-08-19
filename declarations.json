@@ -2434,5 +2434,19 @@
         "total packages": "706",
         "consignment value": "USD 7492.00",
         "taxes": "3585209.15"
+    },
+    "70268458683841": {
+        "code": "70268458683841",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72642081",
+        "importer/consignee": "TAONGA MEMORY MWANZA\r\nPRIVATE BAG 8 LILONGWE 3\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 34297 of 2025/08/18",
+        "declarant code": "CA25167",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "105",
+        "consignment value": "USD 4200.00",
+        "taxes": "2058195.20"
     }
 }

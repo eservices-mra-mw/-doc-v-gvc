@@ -1912,5 +1912,16 @@
         "declarant": "CA25167",
         "items": "1",
         "taxes": "3535209.15"
+    },
+    "60567685643946": {
+        "code": "60567685643946",
+        "title": "Release Order",
+        "tpin": "72642081",
+        "importer": "TAONGA MEMORY MWANZA\r\nPRIVATE BAG 8 LILONGWE 3\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 34297 of 18/08/2025",
+        "declarant": "CA25167",
+        "items": "1",
+        "taxes": "2008195.20"
     }
 }
