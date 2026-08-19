@@ -2448,5 +2448,19 @@
         "total packages": "105",
         "consignment value": "USD 4200.00",
         "taxes": "2058195.20"
+    },
+    "70279569794871": {
+        "code": "70279569794871",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72642091",
+        "importer/consignee": "TIKOLERANE CLUB\r\nP.O BOX 46, BOLERO RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 34347 of 2025/09/18",
+        "declarant code": "CA25677",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5500.00",
+        "taxes": "2661208.00"
     }
 }

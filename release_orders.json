@@ -1923,5 +1923,16 @@
         "declarant": "CA25167",
         "items": "1",
         "taxes": "2008195.20"
+    },
+    "60568794754957": {
+        "code": "60568794754957",
+        "title": "Release Order",
+        "tpin": "72642091",
+        "importer": "TIKOLERANE CLUB\r\nP.O BOX 46, BOLERO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 34297 of 18/09/2025",
+        "declarant": "CA25677",
+        "items": "1",
+        "taxes": "2611208.00"
     }
 }
