@@ -1956,5 +1956,16 @@
         "declarant": "CA25245",
         "items": "1",
         "taxes": "9286589.40"
+    },
+    "60270986833043": {
+        "code": "60270986833043",
+        "title": "Release Order",
+        "tpin": "71753565",
+        "importer": "FIKANI CLUB\r\nP.O BOX 19 BWENGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 38560 of 28/11/2025",
+        "declarant": "CA25235",
+        "items": "1",
+        "taxes": "5566524.45"
     }
 }

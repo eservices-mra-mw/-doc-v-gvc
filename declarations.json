@@ -2483,12 +2483,26 @@
         "tpin": "71753456",
         "importer/consignee": "FIKANI CLUB\r\nP.O BOX 19 BWENGU\r\nMALAWI",
         "clearance office": "SONGWE BORDER",
-        "registration reference": "C 49162 of 2025/11/28",
+        "registration reference": "C 49162 of 2025/12/28",
         "declarant code": "CA25245",
         "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
         "total items": "1",
         "total packages": "1",
         "consignment value": "USD 7800.00",
         "taxes": "9316589.40"
+    },
+    "70973780332932": {
+        "code": "70973780332932",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753565",
+        "importer/consignee": "FIKANI CLUB\r\nP.O BOX 19 BWENGU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 38560 of 2025/11/28",
+        "declarant code": "CA25235",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 4650.00",
+        "taxes": "5596524.45"
     }
 }
