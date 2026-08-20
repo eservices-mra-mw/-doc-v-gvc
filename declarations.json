@@ -2504,5 +2504,19 @@
         "total packages": "1",
         "consignment value": "USD 4650.00",
         "taxes": "5596524.45"
+    },
+    "70391872985591": {
+        "code": "70391872985591",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72643451",
+        "importer/consignee": "CHIKANDO CLUB\r\nP.O BOX 12, CHISENGA CHITIPA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35784 of 2025/11/28",
+        "declarant code": "CA25690",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "9",
+        "consignment value": "USD 15880.00",
+        "taxes": "7476033.28"
     }
 }
