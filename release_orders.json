@@ -2011,5 +2011,16 @@
         "declarant": "CA25575",
         "items": "1",
         "taxes": "11302888.22"
+    },
+    "60589348000645": {
+        "code": "60589348000645",
+        "title": "Release Order",
+        "tpin": "33058111",
+        "importer": "MANYATWAKO CLUB\r\nKATUMBI HEWE RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25976 of 23/12/2025",
+        "declarant": "CA25805",
+        "items": "1",
+        "taxes": "3740000.00"
     }
 }
