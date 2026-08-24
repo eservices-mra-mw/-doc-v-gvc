@@ -2574,5 +2574,19 @@
         "total packages": "1",
         "consignment value": "USD 800.00",
         "taxes": "3770000.00"
+    },
+    "70513094107713": {
+        "code": "70513094107713",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "73454487",
+        "importer/consignee": "KANYAMAMA CLUB\r\nP.O BOX 19 BWENGU MZIMBA\r\nMALAWI",
+        "clearance office": "DEDZA BORDER",
+        "registration reference": "C 36982 of 2025/12/04",
+        "declarant code": "CA25892",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "3",
+        "consignment value": "USD 4000.00",
+        "taxes": "2080950.40"
     }
 }

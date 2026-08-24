@@ -2022,5 +2022,16 @@
         "declarant": "CA25805",
         "items": "1",
         "taxes": "3740000.00"
+    },
+    "60891037089390": {
+        "code": "60891037089390",
+        "title": "Release Order",
+        "tpin": "73454487",
+        "importer": "KANYAMAMA CLUB\r\nP.O BOX 19 BWENGU MZIMBA\r\nMALAWI",
+        "office": "DEDZA BORDER",
+        "reference": "C 36982 of 04/12/2025",
+        "declarant": "CA25892",
+        "items": "1",
+        "taxes": "2030950.40"
     }
 }
