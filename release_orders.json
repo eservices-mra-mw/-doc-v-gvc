@@ -2066,5 +2066,16 @@
         "declarant": "CA26312",
         "items": "1",
         "taxes": "12268942.80"
+    },
+    "60685130377587": {
+        "code": "60685130377587",
+        "title": "Release Order",
+        "tpin": "70713005",
+        "importer": "GWAGWA CLUB\r\nPRIVATE BAG 3 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 41901 of 28/12/2025",
+        "declarant": "CA26423",
+        "items": "1",
+        "taxes": "21027288.00"
     }
 }

@@ -2630,5 +2630,19 @@
         "total packages": "1",
         "consignment value": "USD 7800.00",
         "taxes": "12298942.80"
+    },
+    "70828535776485": {
+        "code": "70828535776485",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713005",
+        "importer/consignee": "GWAGWA CLUB\r\nPRIVATE BAG 3 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 41901 of 2025/12/28",
+        "declarant code": "CA26423",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 9000.00",
+        "taxes": "21057288.00"
     }
 }
