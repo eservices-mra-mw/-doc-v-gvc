@@ -2616,5 +2616,19 @@
         "total packages": "1",
         "consignment value": "USD 4295.00",
         "taxes": "4918905.27"
+    },
+    "70727842776486": {
+        "code": "70727842776486",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72878956",
+        "importer/consignee": "TISAKE CLUB\r\nP.O BOX 25 MHUJU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 41890 of 2025/12/18",
+        "declarant code": "CA26312",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7800.00",
+        "taxes": "12298942.80"
     }
 }
