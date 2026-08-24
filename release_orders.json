@@ -2033,5 +2033,16 @@
         "declarant": "CA25892",
         "items": "1",
         "taxes": "2030950.40"
+    },
+    "60902148190401": {
+        "code": "60902148190401",
+        "title": "Release Order",
+        "tpin": "73465598",
+        "importer": "CHITISANGE CLUB\r\nP.O BOX 19\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 37093 of 14/11/2025",
+        "declarant": "CA25903",
+        "items": "1",
+        "taxes": "3146508.33"
     }
 }
