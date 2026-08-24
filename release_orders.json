@@ -2044,5 +2044,16 @@
         "declarant": "CA25903",
         "items": "1",
         "taxes": "3146508.33"
+    },
+    "60574029266476": {
+        "code": "60574029266476",
+        "title": "Release Order",
+        "tpin": "72878956",
+        "importer": "MWAZE CLUB\r\nKASUNGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 41780 of 03/12/2025",
+        "declarant": "CA26312",
+        "items": "1",
+        "taxes": "4888905.27"
     }
 }
