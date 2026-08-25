@@ -2077,5 +2077,16 @@
         "declarant": "CA26423",
         "items": "1",
         "taxes": "21027288.00"
+    },
+    "60960986822032": {
+        "code": "60960986822032",
+        "title": "Release Order",
+        "tpin": "71756578",
+        "importer": "MALAZA KIDS SCHOOL\r\nCHATONDA VGE TA MWAHENGA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 38550 of 28/02/2026",
+        "declarant": "CA26124",
+        "items": "1",
+        "taxes": "2903691.18"
     }
 }
