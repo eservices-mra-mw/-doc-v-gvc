@@ -2672,5 +2672,19 @@
         "total packages": "1",
         "consignment value": "USD 14150.00",
         "taxes": "16815767.95"
+    },
+    "70402983096602": {
+        "code": "70402983096602",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70713003",
+        "importer/consignee": "WANJE CLUB\r\nP.O BOX 159\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35872 of 2025/06/11",
+        "declarant code": "CA25785",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "2",
+        "consignment value": "USD 6689.00",
+        "taxes": "3212732.78"
     }
 }

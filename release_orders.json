@@ -2099,5 +2099,16 @@
         "declarant": "CA25978",
         "items": "1",
         "taxes": "16785767.95"
+    },
+    "60780926978289": {
+        "code": "60780926978289",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "WANJE CLUB\r\nP.O BOX 159\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35872 of 11/06/2025",
+        "declarant": "CA25785",
+        "items": "1",
+        "taxes": "3162732.78"
     }
 }
