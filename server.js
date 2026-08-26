@@ -37,10 +37,21 @@ const serveFile = (res, filePath, contentType) => {
         res.end('500 Internal Server Error', 'utf-8');
         return;
       }
+
+      const ext = String(path.extname(filePath)).toLowerCase();
+      let cacheControl = 'public, max-age=3600';
+      if (ext === '.json') {
+        cacheControl = 'no-store, no-cache, must-revalidate, proxy-revalidate';
+      } else if (ext === '.html') {
+        cacheControl = 'no-cache, must-revalidate';
+      }
       
       res.writeHead(200, {
         'Content-Type': contentType,
-        'Content-Length': stats.size
+        'Content-Length': stats.size,
+        'Cache-Control': cacheControl,
+        'Pragma': ext === '.json' ? 'no-cache' : '',
+        'Expires': ext === '.json' ? '0' : ''
       });
       
       stream.pipe(res);

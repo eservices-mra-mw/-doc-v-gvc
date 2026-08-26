@@ -50,9 +50,10 @@
                 document.getElementById('error_msg').style.display = 'none';
                 
                 // Fetch data from both databases
+                const cacheBust = '?t=' + Date.now();
                 Promise.all([
-                    fetch('../../release_orders.json').then(r => r.json()).catch(() => ({})),
-                    fetch('../../declarations.json').then(r => r.json()).catch(() => ({}))
+                    fetch('../../release_orders.json' + cacheBust, { cache: 'no-store' }).then(r => r.json()).catch(() => ({})),
+                    fetch('../../declarations.json' + cacheBust, { cache: 'no-store' }).then(r => r.json()).catch(() => ({}))
                 ]).then(([releaseOrders, declarations]) => {
                     const docs = { ...releaseOrders, ...declarations };
                     if (docs[code]) {
