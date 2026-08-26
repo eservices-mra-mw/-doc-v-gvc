@@ -2121,5 +2121,16 @@
         "declarant": "CA25304",
         "items": "1",
         "taxes": "3779031.12"
+    },
+    "60931359202532": {
+        "code": "60931359202532",
+        "title": "Release Order",
+        "tpin": "73244562",
+        "importer": "ZAWERA CLUB-JEALOUS CHITEMBEYA\r\nP.O BOX41 MPHEREMBE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 38103 of 14/08/2025",
+        "declarant": "CA25824",
+        "items": "1",
+        "taxes": "4051174.56"
     }
 }
