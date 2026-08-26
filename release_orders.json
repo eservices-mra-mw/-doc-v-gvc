@@ -2110,5 +2110,16 @@
         "declarant": "CA25785",
         "items": "1",
         "taxes": "3162732.78"
+    },
+    "60260248190401": {
+        "code": "60260248190401",
+        "title": "Release Order",
+        "tpin": "40974504",
+        "importer": "CHIBEME CLUB\r\nP.O BOX 15 MHUJU RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2368 of 11/10/2025",
+        "declarant": "CA25304",
+        "items": "1",
+        "taxes": "3779031.12"
     }
 }
