@@ -40,20 +40,20 @@ const serveFile = (res, filePath, contentType) => {
 
       const ext = String(path.extname(filePath)).toLowerCase();
       let cacheControl = 'public, max-age=3600';
+      const headers = {
+        'Content-Type': contentType,
+        'Content-Length': stats.size
+      };
       if (ext === '.json') {
         cacheControl = 'no-store, no-cache, must-revalidate, proxy-revalidate';
+        headers['Pragma'] = 'no-cache';
+        headers['Expires'] = '0';
       } else if (ext === '.html') {
         cacheControl = 'no-cache, must-revalidate';
       }
+      headers['Cache-Control'] = cacheControl;
       
-      res.writeHead(200, {
-        'Content-Type': contentType,
-        'Content-Length': stats.size,
-        'Cache-Control': cacheControl,
-        'Pragma': ext === '.json' ? 'no-cache' : '',
-        'Expires': ext === '.json' ? '0' : ''
-      });
-      
+      res.writeHead(200, headers);
       stream.pipe(res);
       console.log('  200 OK');
     });
@@ -61,8 +61,36 @@ const serveFile = (res, filePath, contentType) => {
 };
 
 const server = http.createServer((req, res) => {
+  if (req.method !== 'GET' && req.method !== 'HEAD') {
+    res.writeHead(405, {
+      'Content-Type': 'text/plain; charset=utf-8',
+      'Allow': 'GET, HEAD'
+    });
+    res.end('405 Method Not Allowed', 'utf-8');
+    console.log(`[${req.method}] ${req.url} -> 405 Method Not Allowed`);
+    return;
+  }
+
   const urlPath = req.url.split('?')[0].split('#')[0];
-  let filePath = path.join(WEB_ROOT, urlPath === '/' ? 'index.html' : urlPath);
+  const decodedPath = decodeURIComponent(urlPath);
+
+  if (decodedPath.includes('..') || /[\\]/.test(decodedPath)) {
+    res.writeHead(400, { 'Content-Type': 'text/plain; charset=utf-8' });
+    res.end('400 Bad Request', 'utf-8');
+    console.log(`[${req.method}] ${req.url} -> 400 Bad Request (path traversal attempt)`);
+    return;
+  }
+
+  const resolvedRoot = path.resolve(WEB_ROOT);
+  const rawTarget = path.join(resolvedRoot, decodedPath === '/' ? 'index.html' : decodedPath);
+  const filePath = path.resolve(rawTarget);
+
+  if (!filePath.startsWith(resolvedRoot + path.sep) && filePath !== resolvedRoot) {
+    res.writeHead(400, { 'Content-Type': 'text/plain; charset=utf-8' });
+    res.end('400 Bad Request', 'utf-8');
+    console.log(`[${req.method}] ${req.url} -> 400 Bad Request (escaped web root)`);
+    return;
+  }
   
   console.log(`[${req.method}] ${req.url}`);
   
@@ -86,6 +114,12 @@ const server = http.createServer((req, res) => {
       serveFile(res, filePath, contentType);
     }
   });
+});
+
+server.on('clientError', (err, socket) => {
+  if (socket.writable) {
+    socket.end('HTTP/1.1 400 Bad Request\r\n\r\n');
+  }
 });
 
 server.listen(PORT, '0.0.0.0', () => {

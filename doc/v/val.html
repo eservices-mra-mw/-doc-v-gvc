@@ -26,7 +26,7 @@
     <thead>
         <tr>
             <th width="30%">Field</th>
-            <th width="90%">Value</th>
+            <th width="70%">Value</th>
         </tr>
     </thead>
     <tbody id="val-body">
@@ -38,10 +38,10 @@
 <script>
      // Get the validation code from the URL
      const urlParams = new URLSearchParams(window.location.search);
-    let vc = urlParams.get('vc');
-    if (vc) vc = vc.trim();
+    let rawVc = urlParams.get('vc');
+    let vc = rawVc ? rawVc.trim().replace(/\D/g, '') : '';
 
-    if (!vc) {
+    if (!vc || vc.length !== 14) {
         window.location.href = "gvc.html";
     } else {
         // Fetch data from both databases
@@ -55,7 +55,7 @@
             const doc = docs[vc];
 
             if (doc) {
-                document.getElementById('val-code').textContent = doc.code;
+                document.getElementById('val-code').textContent = doc.code || vc;
                 const tbody = document.getElementById('val-body');
 
                 // Define the fields and their display names

@@ -43,11 +43,19 @@
             function validateCode(event) {
                 event.preventDefault();
                 var input = document.getElementById('vc');
-                var code = input.value.trim();
+                var rawCode = input.value.trim();
+                var code = rawCode.replace(/\D/g, '');
+
+                if (code.length !== 14) {
+                    document.getElementById('error_msg').style.display = 'block';
+                    document.getElementById('error_msg').textContent = 'Validation code must be exactly 14 digits. Please check and try again.';
+                    return;
+                }
 
                 input.value = code;
                 saveDraftCode(code);
                 document.getElementById('error_msg').style.display = 'none';
+                document.getElementById('error_msg').textContent = 'Invalid validation code. Please check and try again.';
                 
                 // Fetch data from both databases
                 const cacheBust = '?t=' + Date.now();
