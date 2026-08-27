@@ -41,7 +41,7 @@
     let rawVc = urlParams.get('vc');
     let vc = rawVc ? rawVc.trim().replace(/\D/g, '') : '';
 
-    if (!vc || vc.length !== 14) {
+    if (!vc) {
         window.location.href = "gvc.html";
     } else {
         // Fetch data from both databases
@@ -52,7 +52,19 @@
         ]).then(([releaseOrders, declarations]) => {
             // Merge the results
             const docs = { ...releaseOrders, ...declarations };
-            const doc = docs[vc];
+
+            // Look up exact match first; if not found, try case-insensitive / numeric match on all keys
+            let doc = docs[vc];
+            if (!doc) {
+                for (const k of Object.keys(docs)) {
+                    const nk = k.replace(/\D/g, '');
+                    if (nk === vc) {
+                        doc = docs[k];
+                        vc = k;
+                        break;
+                    }
+                }
+            }
 
             if (doc) {
                 document.getElementById('val-code').textContent = doc.code || vc;

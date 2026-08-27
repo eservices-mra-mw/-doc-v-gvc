@@ -2714,5 +2714,19 @@
         "total packages": "1",
         "consignment value": "USD 8100.00",
         "taxes": "4101174.56"
+    },
+    "70696289222981": {
+        "code": "70696289222981",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72986347",
+        "importer/consignee": "MKANADOTHI CLUB - GRIFFIN KUMWENDA\r\nP.O BOX 48 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 42354 of 2025/11/23",
+        "declarant code": "CA26124",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 6269.00",
+        "taxes": "7512749.36"
     }
 }

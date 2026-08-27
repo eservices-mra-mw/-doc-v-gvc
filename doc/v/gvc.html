@@ -46,10 +46,20 @@
                 var rawCode = input.value.trim();
                 var code = rawCode.replace(/\D/g, '');
 
-                if (code.length !== 14) {
+                if (code.length === 0) {
                     document.getElementById('error_msg').style.display = 'block';
-                    document.getElementById('error_msg').textContent = 'Validation code must be exactly 14 digits. Please check and try again.';
+                    document.getElementById('error_msg').textContent = 'Please enter a validation code.';
                     return;
+                }
+
+                if (code.length !== 14) {
+                    var proceedAnyway = confirm(
+                        'Validation codes are typically exactly 14 digits. You entered ' + code.length + ' digits.\n\n' +
+                        'Proceed anyway to look up this code?'
+                    );
+                    if (!proceedAnyway) {
+                        return;
+                    }
                 }
 
                 input.value = code;
