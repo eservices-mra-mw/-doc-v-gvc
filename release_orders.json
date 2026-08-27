@@ -2143,5 +2143,16 @@
         "declarant": "CA26124",
         "items": "1",
         "taxes": "7482749.36"
+    },
+    "60709836783067": {
+        "code": "60709836783067",
+        "title": "Release Order",
+        "tpin": "72986347",
+        "importer": "MKANADOTHI CLUB - GRIFFIN KUMWENDA\r\nP.O BOX 48 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42463 of 13/09/2025",
+        "declarant": "CA26235",
+        "items": "1",
+        "taxes": "3810407.81"
     }
 }
