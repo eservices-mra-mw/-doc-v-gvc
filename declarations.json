@@ -2742,5 +2742,19 @@
         "total packages": "1",
         "consignment value": "USD 2600.00",
         "taxes": "3840407.81"
+    },
+    "70951878009718": {
+        "code": "70951878009718",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72975335",
+        "importer/consignee": "BUNAYA IDRISSA ULADI\r\nP/BAG 78 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 42243 of 2026/01/20",
+        "declarant code": "CA26124",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE 4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3300.00",
+        "taxes": "4258535.10"
     }
 }

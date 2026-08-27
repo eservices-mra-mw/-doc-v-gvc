@@ -2154,5 +2154,16 @@
         "declarant": "CA26235",
         "items": "1",
         "taxes": "3810407.81"
+    },
+    "60918463690801": {
+        "code": "60918463690801",
+        "title": "Release Order",
+        "tpin": "72975335",
+        "importer": "BUNAYA IDRISSA ULADI\r\nP/BAG 78 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42243 of 20/01/2026",
+        "declarant": "CA26124",
+        "items": "1",
+        "taxes": "4228535.10"
     }
 }
