@@ -2798,5 +2798,19 @@
         "total packages": "284",
         "consignment value": "USD 4047.00",
         "taxes": "3829031.12"
+    },
+    "70978493073826": {
+        "code": "70978493073826",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71804634",
+        "importer/consignee": "THUMBI CLUB\r\nP.O BOX 19, BWENGU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 85014 of 2025/12/24",
+        "declarant code": "CA37962",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2200.00",
+        "taxes": "3089933.23"
     }
 }
