@@ -2165,5 +2165,16 @@
         "declarant": "CA26124",
         "items": "1",
         "taxes": "4228535.10"
+    },
+    "60280315096389": {
+        "code": "60280315096389",
+        "title": "Release Order",
+        "tpin": "72983356",
+        "importer": "MADALITSO CLUB\r\nP.O BOX 12 MPHEREMBE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35423 of 12/11/2025",
+        "declarant": "CA25075",
+        "items": "1",
+        "taxes": "7051227.72"
     }
 }

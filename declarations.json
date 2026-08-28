@@ -2756,5 +2756,19 @@
         "total packages": "1",
         "consignment value": "USD 3300.00",
         "taxes": "4258535.10"
+    },
+    "70919512555214": {
+        "code": "70919512555214",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72983356",
+        "importer/consignee": "MADALITSO CLUB\r\nP.O BOX 12 MPHEREMBE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35423 of 2025/11/12",
+        "declarant code": "CA25075",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3018.00",
+        "taxes": "7081227.72"
     }
 }
