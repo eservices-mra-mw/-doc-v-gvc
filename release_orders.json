@@ -2176,5 +2176,16 @@
         "declarant": "CA25075",
         "items": "1",
         "taxes": "7051227.72"
+    },
+    "60667471191932": {
+        "code": "60667471191932",
+        "title": "Release Order",
+        "tpin": "72986335",
+        "importer": "KASAMBALA CLUB\r\nP.O. BOX 41 MPHWAMPHWA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 44643 of 11/07/2025",
+        "declarant": "CA25924",
+        "items": "1",
+        "taxes": "9514852.50"
     }
 }
