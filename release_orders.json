@@ -2220,5 +2220,16 @@
         "declarant": "CA26013",
         "items": "1",
         "taxes": "3395037.44"
+    },
+    "60796241478698": {
+        "code": "60796241478698",
+        "title": "Release Order",
+        "tpin": "72875445",
+        "importer": "MWATONDEKHA CLUB\r\nP/BAG 38 MPHEREMBE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 41912 of 07/02/2025",
+        "declarant": "CA24923",
+        "items": "1",
+        "taxes": "31461466.16"
     }
 }
