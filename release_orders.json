@@ -2231,5 +2231,16 @@
         "declarant": "CA24923",
         "items": "1",
         "taxes": "31461466.16"
+    },
+    "60391426107490": {
+        "code": "60391426107490",
+        "title": "Release Order",
+        "tpin": "70713003",
+        "importer": "MAKUTI CLUB\r\nP.O BOX 19 ,BWENGU\r\nMZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25359 of 28/11/2025",
+        "declarant": "CA25386",
+        "items": "1",
+        "taxes": "7051227.72"
     }
 }
