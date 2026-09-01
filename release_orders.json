@@ -2253,5 +2253,16 @@
         "declarant": "CA25935",
         "items": "1",
         "taxes": "1934905.95"
+    },
+    "60391426217591": {
+        "code": "60391426217591",
+        "title": "Release Order",
+        "tpin": "72983367",
+        "importer": "MKONDO NYASULU\r\nP.O BOX 43 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35434 of 26/12/2025",
+        "declarant": "CA25086",
+        "items": "1",
+        "taxes": "7891630.00"
     }
 }
