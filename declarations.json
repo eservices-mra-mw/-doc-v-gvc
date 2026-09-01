@@ -2854,5 +2854,19 @@
         "total packages": "1",
         "consignment value": "USD 4800.00",
         "taxes": "7081227.72"
+    },
+    "70929445175789": {
+        "code": "70929445175789",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71039799",
+        "importer/consignee": "MAKUTI CLUB\r\nP.O BOX 19 ,BWENGU MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25359 of 2025/11/28",
+        "declarant code": "CA25935",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 4042.00",
+        "taxes": "1984905.95"
     }
 }

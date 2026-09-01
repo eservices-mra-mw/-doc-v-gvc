@@ -2242,5 +2242,16 @@
         "declarant": "CA25386",
         "items": "1",
         "taxes": "7051227.72"
+    },
+    "60989674126879": {
+        "code": "60989674126879",
+        "title": "Release Order",
+        "tpin": "71039799",
+        "importer": "MANDEVU CLUB\r\nP.O BOX RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42635 of 20/10/2025",
+        "declarant": "CA25935",
+        "items": "1",
+        "taxes": "1934905.95"
     }
 }
