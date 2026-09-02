@@ -2275,5 +2275,16 @@
         "declarant": "CA26674",
         "items": "1",
         "taxes": "19601326.62"
+    },
+    "60402537328602": {
+        "code": "60402537328602",
+        "title": "Release Order",
+        "tpin": "72983378",
+        "importer": "MAKUTI CLUB\r\nP-BAG MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35445 of 18/10/2025",
+        "declarant": "CA25086",
+        "items": "1",
+        "taxes": "17507303.62"
     }
 }

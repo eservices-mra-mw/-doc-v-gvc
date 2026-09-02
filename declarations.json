@@ -2896,5 +2896,19 @@
         "total packages": "1",
         "consignment value": "USD 4510.00",
         "taxes": "19651326.62"
+    },
+    "70364034778436": {
+        "code": "70364034778436",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72983378",
+        "importer/consignee": "MAKUTI CLUB\r\nP-BAG MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35445 of 2025/10/18",
+        "declarant code": "CA25086",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7488.00",
+        "taxes": "17537303.62"
     }
 }
