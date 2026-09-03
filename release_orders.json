@@ -2297,5 +2297,16 @@
         "declarant": "CA25940",
         "items": "1",
         "taxes": "1829842.57"
+    },
+    "60997756326980": {
+        "code": "60997756326980",
+        "title": "Release Order",
+        "tpin": "71068524",
+        "importer": "WISDOM LUHANGA - SADAT CLUB\r\nP.O BOX 46, BOLERO,\r\nRUMPHI, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42736 of 14/11/2025",
+        "declarant": "CA25069",
+        "items": "1",
+        "taxes": "1841310.94"
     }
 }
