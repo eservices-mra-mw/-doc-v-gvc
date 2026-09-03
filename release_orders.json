@@ -2330,5 +2330,16 @@
         "declarant": "CA25223",
         "items": "1",
         "taxes": "3298767.14"
+    },
+    "60513648439713": {
+        "code": "60513648439713",
+        "title": "Release Order",
+        "tpin": "72984478",
+        "importer": "KAJIMELELE CLUB\r\nP.O BOX 299 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35556 of 13/09/2025",
+        "declarant": "CA25197",
+        "items": "1",
+        "taxes": "3348657.16"
     }
 }
