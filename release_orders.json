@@ -2319,5 +2319,16 @@
         "declarant": "CA25931",
         "items": "1",
         "taxes": "987851.15"
+    },
+    "60859345741483": {
+        "code": "60859345741483",
+        "title": "Release Order",
+        "tpin": "71758734",
+        "importer": "UCHINDAMI CLUB\r\nMHUJU EPA KAPELEMBE NEAR\r\nMPHAMBARA MZUZU",
+        "office": "SONGWE BORDER",
+        "reference": "C 49138 of 28/11/2025",
+        "declarant": "CA25223",
+        "items": "1",
+        "taxes": "3298767.14"
     }
 }

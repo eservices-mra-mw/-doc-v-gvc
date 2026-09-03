@@ -2938,5 +2938,19 @@
         "total packages": "3",
         "consignment value": "USD 2000.30",
         "taxes": "1037851.15"
+    },
+    "70978493672496": {
+        "code": "70978493672496",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71758734",
+        "importer/consignee": "UCHINDAMI CLUB\r\nMHUJU EPA KAPELEMBE NEAR\r\nMPHAMBARA MZUZU",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 49138 of 2025/11/28",
+        "declarant code": "CA25223",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2377.93",
+        "taxes": "3328767.14"
     }
 }
