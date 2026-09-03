@@ -2286,5 +2286,16 @@
         "declarant": "CA25086",
         "items": "1",
         "taxes": "17507303.62"
+    },
+    "60986645215879": {
+        "code": "60986645215879",
+        "title": "Release Order",
+        "tpin": "71069233",
+        "importer": "FORTUNE LUHANGA - NYAMUTEKO CLUB\r\nP.O BOX 39, MWAZISI, RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42735 of 15/11/2025",
+        "declarant": "CA25940",
+        "items": "1",
+        "taxes": "1829842.57"
     }
 }

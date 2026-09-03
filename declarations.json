@@ -2910,5 +2910,19 @@
         "total packages": "1",
         "consignment value": "USD 5400.00",
         "taxes": "17537303.62"
+    },
+    "70998445715789": {
+        "code": "70998445715789",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71069233",
+        "importer/consignee": "FORTUNE LUHANGA - NYAMUTEKO CLUB\r\nP.O BOX 39, MWAZISI, RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35445 of 2025/10/18",
+        "declarant code": "CA25940",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "650",
+        "consignment value": "USD 3815.50",
+        "taxes": "1879842.57"
     }
 }
