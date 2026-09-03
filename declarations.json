@@ -2924,5 +2924,19 @@
         "total packages": "656",
         "consignment value": "USD 3840.22",
         "taxes": "1891310.94"
+    },
+    "70998445175789": {
+        "code": "70998445175789",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70985726",
+        "importer/consignee": "ROBERT MFUNE JEREMIAH - CHADADA ESTATE\r\nBOLERO RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 42635 of 2025/10/24",
+        "declarant code": "CA25931",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "3",
+        "consignment value": "USD 2000.30",
+        "taxes": "1037851.15"
     }
 }

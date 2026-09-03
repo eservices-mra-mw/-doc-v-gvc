@@ -2308,5 +2308,16 @@
         "declarant": "CA25069",
         "items": "1",
         "taxes": "1841310.94"
+    },
+    "60986634215879": {
+        "code": "60986634215879",
+        "title": "Release Order",
+        "tpin": "70985726",
+        "importer": "ROBERT MFUNE JEREMIAH-CHADADA ESTATE\r\nBOLERO, RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42635 of 24/10/2025",
+        "declarant": "CA25931",
+        "items": "1",
+        "taxes": "987851.15"
     }
 }
