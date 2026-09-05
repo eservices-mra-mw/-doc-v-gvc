@@ -2341,5 +2341,16 @@
         "declarant": "CA25197",
         "items": "1",
         "taxes": "3348657.16"
+    },
+    "60624759540824": {
+        "code": "60624759540824",
+        "title": "Release Order",
+        "tpin": "72985589",
+        "importer": "KONDWANI CLUB\r\nP.O BOX 34 PHWAMPHWA RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35667 of 18/10/2025",
+        "declarant": "CA25208",
+        "items": "1",
+        "taxes": "8881515.66"
     }
 }
