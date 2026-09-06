@@ -2363,5 +2363,16 @@
         "declarant": "CA25320",
         "items": "1",
         "taxes": "8502475.84"
+    },
+    "60735860651934": {
+        "code": "60735860651934",
+        "title": "Release Order",
+        "tpin": "73242289",
+        "importer": "KACHETECHETE CLUB\r\nP.O BOX 41 EKWENDENI MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35678 of 17/09/2025",
+        "declarant": "CA25219",
+        "items": "1",
+        "taxes": "5272867.50"
     }
 }

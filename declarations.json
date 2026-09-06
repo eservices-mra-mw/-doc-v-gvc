@@ -2994,5 +2994,19 @@
         "total packages": "1",
         "consignment value": "USD 3620.00",
         "taxes": "8532475.84"
+    },
+    "70697367001769": {
+        "code": "70697367001769",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "73242289",
+        "importer/consignee": "KACHETECHETE CLUB\r\nP.O BOX 41 EKWENDENI MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35678 of 2025/09/17",
+        "declarant code": "CA25219",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3620.00",
+        "taxes": "5302867.50"
     }
 }
