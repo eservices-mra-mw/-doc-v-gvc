@@ -2980,5 +2980,19 @@
         "total packages": "1",
         "consignment value": "USD 7457.00",
         "taxes": "8911515.66"
+    },
+    "70708478112870": {
+        "code": "70708478112870",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "73243390",
+        "importer/consignee": "CHIPOLOPOLO CLUB\r\nP.O BOX 41 EKWENDENI MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 35789 of 2025/09/19",
+        "declarant code": "CA25320",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 3620.00",
+        "taxes": "8532475.84"
     }
 }
