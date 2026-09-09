@@ -3022,5 +3022,19 @@
         "total packages": "1",
         "consignment value": "USD 8100.00",
         "taxes": "8563450.31"
+    },
+    "70978494058667": {
+        "code": "70978494058667",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753234",
+        "importer/consignee": "WOWE CLUB\r\nMKAMA TRADING CENTRE\r\nRUMPHI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 47209 of 2025/10/11",
+        "declarant code": "CA33464",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 6480.00",
+        "taxes": "7755956.25"
     }
 }
