@@ -2374,5 +2374,16 @@
         "declarant": "CA26219",
         "items": "1",
         "taxes": "5272867.50"
+    },
+    "60810947894178": {
+        "code": "60810947894178",
+        "title": "Release Order",
+        "tpin": "72986458",
+        "importer": "MASEKO CLUB\r\nGVH CHAWAKA T.A. MTHWALO\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42534 of 12/11/2025",
+        "declarant": "CA25675",
+        "items": "1",
+        "taxes": "8533450.31"
     }
 }
