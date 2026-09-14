@@ -709,7 +709,7 @@
         "tpin": "409627476",
         "importer": "Yawufu Club\r\nP.O Box 19, Bwengu\r\nMalawi",
         "office": "SONGWE BORDER",
-        "reference": "C 4039 of 16/10/2025",
+        "reference": "C 4036 of 16/10/2025",
         "declarant": "CA25795",
         "items": "4",
         "taxes": "10569973.19"
@@ -849,18 +849,18 @@
     "60374330814023": {
         "code": "60374330814023",
         "title": "Release Order",
-        "tpin": "70981280",
+        "tpin": "70781280",
         "importer": "CHISANGA CLUB\r\nC/O P.O BOX 65 ULIWA\r\nCHILUMBA, KARONGA",
         "office": "SONGWE BORDER",
         "reference": "C 39498 of 07/11/2025",
-        "declarant": "CA25392",
+        "declarant": "CA25393",
         "items": "1",
         "taxes": "250917.60"
     },
     "60875895764982": {
         "code": "60875895764982",
         "title": "Release Order",
-        "tpin": "70713003",
+        "tpin": "70781280",
         "importer": "ALISON MATUTA\r\nFIRST CAPITAL BANK\r\nP/BAG 122 BLANTYRE\r\nMALAWI",
         "office": "SONGWE BORDER",
         "reference": "C 39543 of 23/09/2025",
@@ -970,7 +970,7 @@
     "60385440925034": {
         "code": "60385440925034",
         "title": "Release Order",
-        "tpin": "70719433",
+        "tpin": "70781280",
         "importer": "KASIMBA BOLERO JTI CLUB\r\nZUNGUZUNGU, BOLERO\r\nP.O BOX 001\r\nRUMPHI MALAWI",
         "office": "SONGWE BORDER",
         "reference": "C 39499 of 07/11/2025",
@@ -2205,7 +2205,7 @@
         "tpin": "71804634",
         "importer": "THUMBI CLUB\r\nP.O BOX 19,\r\nBWENGU MALAWI",
         "office": "SONGWE BORDER",
-        "reference": "C 485014 of 24/12/2025",
+        "reference": "C 85014 of 24/12/2025",
         "declarant": "CA37962",
         "items": "1",
         "taxes": "3059933.23"
@@ -2407,5 +2407,126 @@
         "declarant": "CA25941",
         "items": "1",
         "taxes": "1915424.00"
+    },
+    "60957082873156": {
+        "code": "60957082873156",
+        "title": "Release Order",
+        "tpin": "73254401",
+        "importer": "CHAMUKUWA CLUB\r\nP-BAG 3 VONGO RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35790 of 19/12/2025",
+        "declarant": "CA25331",
+        "items": "1",
+        "taxes": "3101441.60"
+    },
+    "60929738281054": {
+        "code": "60929738281054",
+        "title": "Release Order",
+        "tpin": "71753574",
+        "importer": "KWALE CLUB\r\nP.O BOX 41\r\nPHWAMPHWA,RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 64032 of 07/02/2026",
+        "declarant": "CA87245",
+        "items": "1",
+        "taxes": "1374043.31"
+    },
+    "60997745326981": {
+        "code": "60997745326981",
+        "title": "Release Order",
+        "tpin": "70986737",
+        "importer": "MKONDO NYASULU - KHUYU ESTATE\r\nP.O BOX 43 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 42746 of 23/02/2025",
+        "declarant": "CA25941",
+        "items": "1",
+        "taxes": "3307158.98"
+    },
+    "60114922986777": {
+        "code": "60114922986777",
+        "title": "Release Order",
+        "tpin": "71057981",
+        "importer": "MBEMBATI CLUB\r\nP.O BOX 41, KAPOLO\r\nKARONGA MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 41932 of 04/03/2026",
+        "declarant": "CA26941",
+        "items": "1",
+        "taxes": "1163425.00"
+    },
+    "60909067548004": {
+        "code": "60909067548004",
+        "title": "Release Order",
+        "tpin": "71933737",
+        "importer": "KUMTIWIRI CLUB\r\nP.O BOX 124 MPHEREMBE MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 43756 of 27/10/2025",
+        "declarant": "CA25852",
+        "items": "1",
+        "taxes": "1655200.78"
+    },
+    "60998956437993": {
+        "code": "60998956437993",
+        "title": "Release Order",
+        "tpin": "71933737",
+        "importer": "KUMTIWIRI CLUB\r\nP.O BOX 124 MPHEREMBE\r\nMZIMBA MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 43746 of 03/11/2025",
+        "declarant": "CA25952",
+        "items": "1",
+        "taxes": "1744724.99"
+    },
+    "60970825935479": {
+        "code": "60970825935479",
+        "title": "Release Order",
+        "tpin": "74652201",
+        "importer": "WANANGWAWITHU CLUB\r\nP.O BOX 19 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45790 of 09/12/2025",
+        "declarant": "CA25129",
+        "items": "1",
+        "taxes": "5625573.10"
+    },
+    "60981936046580": {
+        "code": "60981936046580",
+        "title": "Release Order",
+        "tpin": "70749456",
+        "importer": "TISANGEPO CLUB\r\nP.O BOX 43 ENGICWINI MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45801 of 09/07/2026",
+        "declarant": "CA26129",
+        "items": "1",
+        "taxes": "11252390.00"
+    },
+    "60929738429574": {
+        "code": "60929738429574",
+        "title": "Release Order",
+        "tpin": "71753504",
+        "importer": "FUMBANI CLUB\r\nP.O BOX 231\r\nEKWENDENI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 69232 of 27/12/2025",
+        "declarant": "CA25235",
+        "items": "1",
+        "taxes": "5249434.82"
+    },
+    "60929738431597": {
+        "code": "60929738431597",
+        "title": "Release Order",
+        "tpin": "71753504",
+        "importer": "FUMBANI CLUB\r\nP.O BOX 231\r\nEKWENDENI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 67243 of 10/12/2025",
+        "declarant": "CA25262",
+        "items": "1",
+        "taxes": "3277715.25"
+    },
+    "60968193984267": {
+        "code": "60968193984267",
+        "title": "Release Order",
+        "tpin": "73254423",
+        "importer": "ADAM BENJAMIN BANDA-MAYESELO ESTATE\r\nP.O BOX 338 MTUNTHAMA KASUNGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 35792 of 12/09/2026",
+        "declarant": "CA26331",
+        "items": "1",
+        "taxes": "2809037.28"
     }
 }
