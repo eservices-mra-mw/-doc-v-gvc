@@ -3246,5 +3246,19 @@
         "total packages": "1",
         "consignment value": "9900.00",
         "taxes": "4704797.90"
+    },
+    "70941423162456": {
+        "code": "70941423162456",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71944767",
+        "importer/consignee": "CHRISTINA NDIMWA-KALORA CLUB\r\nBOX 18, BULALA\r\nMZIMBA",
+        "clearance office": "MWANZA BORDER",
+        "registration reference": "C 43987 of 2025/09/14",
+        "declarant code": "CA25914",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "4000.00",
+        "taxes": "1966484.00"
     }
 }

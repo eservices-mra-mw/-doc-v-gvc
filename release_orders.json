@@ -2561,5 +2561,16 @@
         "declarant": "CA25853",
         "items": "1",
         "taxes": "4654797.90"
+    },
+    "60943401932448": {
+        "code": "60943401932448",
+        "title": "Release Order",
+        "tpin": "71944767",
+        "importer": "CHRISTINA NDIMWA-KALORA CLUB\r\nBOX 18, BULALA\r\nMZIMBA",
+        "office": "MWANZA BORDER",
+        "reference": "C 43987 of 14/09/2025",
+        "declarant": "CA25914",
+        "items": "1",
+        "taxes": "1916484.00"
     }
 }
