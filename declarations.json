@@ -3204,5 +3204,19 @@
         "total packages": "1",
         "consignment value": "USD 5340.00",
         "taxes": "3131441.60"
+    },
+    "70929101930234": {
+        "code": "70929101930234",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71944757",
+        "importer/consignee": "THEMBACHAKO CLUB - LAMECK MKANDAWIRE\r\nP.O BOX 7 ENGUCWINI, MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 43876 of 2025/10/04",
+        "declarant code": "CA25853",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "37",
+        "consignment value": "USD 2595.79",
+        "taxes": "1314760.65"
     }
 }

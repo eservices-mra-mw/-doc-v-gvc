@@ -2528,5 +2528,16 @@
         "declarant": "CA26331",
         "items": "1",
         "taxes": "2809037.28"
+    },
+    "60921289710226": {
+        "code": "60921289710226",
+        "title": "Release Order",
+        "tpin": "71944757",
+        "importer": "THEMBACHAKO CLUB - LAMECK MKANDAWIRE\r\nP.O BOX 7 ENGUCWINI, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 43876 of 04/10/2025",
+        "declarant": "CA25853",
+        "items": "1",
+        "taxes": "1264760.65"
     }
 }
