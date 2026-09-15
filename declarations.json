@@ -3288,5 +3288,19 @@
         "total packages": "320",
         "consignment value": "1700.00",
         "taxes": "898555.20"
+    },
+    "70942812556214": {
+        "code": "70942812556214",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70930339",
+        "importer/consignee": "GLADWELL CHAPIKA MUNTHALI\r\nP.O BOX 333, LILONGWE\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 37812 of 2026/01/29",
+        "declarant code": "CA26129",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "7000.00",
+        "taxes": "20312046.25"
     }
 }

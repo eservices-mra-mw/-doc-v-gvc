@@ -2594,5 +2594,16 @@
         "declarant": "CA25114",
         "items": "1",
         "taxes": "848555.20"
+    },
+    "60980214106389": {
+        "code": "60980214106389",
+        "title": "Release Order",
+        "tpin": "70930339",
+        "importer": "GLADWELL CHAPIKA MUNTHALI\r\nP.O BOX 333, LILONGWE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 37812 of 29/01/2026",
+        "declarant": "CA26129",
+        "items": "1",
+        "taxes": "20262046.25"
     }
 }
