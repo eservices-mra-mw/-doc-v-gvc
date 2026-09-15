@@ -3274,5 +3274,19 @@
         "total packages": "1",
         "consignment value": "7500.00",
         "taxes": "8563450.31"
+    },
+    "70930212041345": {
+        "code": "70930212041345",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71944767",
+        "importer/consignee": "PETROS HOLOHIYO LUHANGA\r\nP.O BOX 9 BOLERO\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 44976 of 2025/11/05",
+        "declarant code": "CA25114",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "320",
+        "consignment value": "1700.00",
+        "taxes": "898555.20"
     }
 }

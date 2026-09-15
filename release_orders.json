@@ -2583,5 +2583,16 @@
         "declarant": "CA25775",
         "items": "1",
         "taxes": "8533450.31"
+    },
+    "60932390822348": {
+        "code": "60932390822348",
+        "title": "Release Order",
+        "tpin": "71944767",
+        "importer": "PETROS HOLOHIYO LUHANGA\r\nP.O BOX 9 BOLERO\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 44976 of 05/11/2025",
+        "declarant": "CA25114",
+        "items": "1",
+        "taxes": "848555.20"
     }
 }
