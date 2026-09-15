@@ -3260,5 +3260,19 @@
         "total packages": "1",
         "consignment value": "4000.00",
         "taxes": "1966484.00"
+    },
+    "70898734585114": {
+        "code": "70898734585114",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71041067",
+        "importer/consignee": "KASAMBALA CLUB - DARWINS MZUMARA\r\nP.O BOX 41 PHWAPHWA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25634 of 2025/11/11",
+        "declarant code": "CA25775",
+        "declarant name": "ALL STOP SHIPPING\r\nP.O BOX 168\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "7500.00",
+        "taxes": "8563450.31"
     }
 }

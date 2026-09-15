@@ -2572,5 +2572,16 @@
         "declarant": "CA25914",
         "items": "1",
         "taxes": "1916484.00"
+    },
+    "60920058905289": {
+        "code": "60920058905289",
+        "title": "Release Order",
+        "tpin": "71041067",
+        "importer": "KASAMBALA CLUB - DARWINS MZUMARA\r\nP.O BOX 41 PHWAPHWA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25634 of 11/11/2025",
+        "declarant": "CA25775",
+        "items": "1",
+        "taxes": "8533450.31"
     }
 }
