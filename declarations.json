@@ -3218,5 +3218,19 @@
         "total packages": "37",
         "consignment value": "USD 2595.79",
         "taxes": "1314760.65"
+    },
+    "70989246971054": {
+        "code": "70989246971054",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753412",
+        "importer/consignee": "UTHANANI CLUB - COMEDY CHIMA\r\nP.O BOX 41 EKWENDENI, MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 68392 of 2025/12/07",
+        "declarant code": "CA87492",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "1882.00",
+        "taxes": "2657891.25"
     }
 }

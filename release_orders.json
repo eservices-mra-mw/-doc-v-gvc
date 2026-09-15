@@ -2539,5 +2539,16 @@
         "declarant": "CA25853",
         "items": "1",
         "taxes": "1264760.65"
+    },
+    "60929738432714": {
+        "code": "60929738432714",
+        "title": "Release Order",
+        "tpin": "71753412",
+        "importer": "UTHANANI CLUB - COMEDY CHIMA\r\nP.O BOX 41 EKWENDENI, MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 68392 of 07/12/2025",
+        "declarant": "CA87492",
+        "items": "1",
+        "taxes": "2627891.25"
     }
 }
