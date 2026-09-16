@@ -2605,5 +2605,16 @@
         "declarant": "CA26129",
         "items": "1",
         "taxes": "20262046.25"
+    },
+    "60991325217490": {
+        "code": "60991325217490",
+        "title": "Release Order",
+        "tpin": "70931339",
+        "importer": "DAVIE MKONONGO - CHIFUNDO CLUB\r\nP.O BOX 19 BWENGU MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 37832 of 23/04/2026",
+        "declarant": "CA26423",
+        "items": "1",
+        "taxes": "47727991.00"
     }
 }

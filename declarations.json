@@ -3302,5 +3302,19 @@
         "total packages": "1",
         "consignment value": "7000.00",
         "taxes": "20312046.25"
+    },
+    "70953923668436": {
+        "code": "70953923668436",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70931339",
+        "importer/consignee": "DAVIE MKONONGO - CHIFUNDO CLUB\r\nP.O BOX 19 BWENGU MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 37832 of 2026/04/23",
+        "declarant code": "CA26423",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "16550.00",
+        "taxes": "47777991.00"
     }
 }
