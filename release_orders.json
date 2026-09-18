@@ -2616,5 +2616,16 @@
         "declarant": "CA26423",
         "items": "1",
         "taxes": "47727991.00"
+    },
+    "60472926200047": {
+        "code": "60472926200047",
+        "title": "Release Order",
+        "tpin": "30970695",
+        "importer": "MUSAIWARE CLUB\r\nP.O BOX 46\r\nBOLERO, RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25376 of 09/09/2025",
+        "declarant": "CA25915",
+        "items": "1",
+        "taxes": "1513750.00"
     }
 }

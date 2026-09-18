@@ -3316,5 +3316,19 @@
         "total packages": "1",
         "consignment value": "16550.00",
         "taxes": "47777991.00"
+    },
+    "70372757100958": {
+        "code": "70372757100958",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "30970695",
+        "importer/consignee": "MUSAIWARE CLUB\r\nP.O BOX 46 BOLERO,\r\nRUMPHI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25376 of 2025/09/09",
+        "declarant code": "CA25915",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "40",
+        "consignment value": "5600.00",
+        "taxes": "1543750.00"
     }
 }
