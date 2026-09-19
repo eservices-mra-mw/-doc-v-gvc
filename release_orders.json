@@ -2638,5 +2638,16 @@
         "declarant": "CA25349",
         "items": "1",
         "taxes": "12061875.95"
+    },
+    "60992046097690": {
+        "code": "60992046097690",
+        "title": "Release Order",
+        "tpin": "74653345",
+        "importer": "MADOLA CLUB\r\nP.O BOX 46 BOLERO\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45760 of 12/09/2024",
+        "declarant": "CA24349",
+        "items": "1",
+        "taxes": "5687065.70"
     }
 }
