@@ -2627,5 +2627,16 @@
         "declarant": "CA25915",
         "items": "1",
         "taxes": "1513750.00"
+    },
+    "60981935986589": {
+        "code": "60981935986589",
+        "title": "Release Order",
+        "tpin": "74653301",
+        "importer": "WANYASOKO CLUB\r\nP.O BOX 75 ENGUCWINI MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45760 of 19/12/2025",
+        "declarant": "CA25349",
+        "items": "1",
+        "taxes": "12061875.95"
     }
 }
