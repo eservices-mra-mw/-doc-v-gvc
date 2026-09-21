@@ -2649,5 +2649,16 @@
         "declarant": "CA24349",
         "items": "1",
         "taxes": "5687065.70"
+    },
+    "60903157188701": {
+        "code": "60903157188701",
+        "title": "Release Order",
+        "tpin": "72673345",
+        "importer": "MANASSEH CHINULA\r\nP.O.BOX 20398, MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45960 of 12/09/2026",
+        "declarant": "CA26349",
+        "items": "1",
+        "taxes": "4665119.56"
     }
 }

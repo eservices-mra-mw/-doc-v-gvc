@@ -3358,5 +3358,19 @@
         "total packages": "1",
         "consignment value": "8619.00",
         "taxes": "5717065.70"
+    },
+    "70956923789224": {
+        "code": "70956923789224",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72673345",
+        "importer/consignee": "MANASSEH CHINULA\r\nP.O.BOX 20398, MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 45960 of 2026/09/12",
+        "declarant code": "CA26129",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "2800.00",
+        "taxes": "4715119.56"
     }
 }
