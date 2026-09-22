@@ -2671,5 +2671,16 @@
         "declarant": "CA25235",
         "items": "1",
         "taxes": "4228535.10"
+    },
+    "60714237004190": {
+        "code": "60714237004190",
+        "title": "Release Order",
+        "tpin": "70703056",
+        "importer": "MR PRECIOUS T CHIKONDE\r\nBOX 70182 BLANTYRE\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 24510 of 11/12/2024",
+        "declarant": "CA24166",
+        "items": "1",
+        "taxes": "8533450.31"
     }
 }
