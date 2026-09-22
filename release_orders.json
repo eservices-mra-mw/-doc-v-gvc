@@ -2660,5 +2660,16 @@
         "declarant": "CA26349",
         "items": "1",
         "taxes": "4665119.56"
+    },
+    "60919574700912": {
+        "code": "60919574700912",
+        "title": "Release Order",
+        "tpin": "72975335",
+        "importer": "JOEL MKANDAWIRE\r\nP.O BOX 50, ENGUCWINI,\r\nMZIMBA, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 23143 of 25/12/2025",
+        "declarant": "CA25235",
+        "items": "1",
+        "taxes": "4228535.10"
     }
 }

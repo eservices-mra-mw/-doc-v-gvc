@@ -3372,5 +3372,19 @@
         "total packages": "1",
         "consignment value": "2800.00",
         "taxes": "4715119.56"
+    },
+    "70951889010829": {
+        "code": "70951889010829",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72975335",
+        "importer/consignee": "JOEL MKANDAWIRE\r\nP.O BOX 50, ENGUCWINI,\r\nMZIMBA, MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 23143 of 2025/12/25",
+        "declarant code": "CA25235",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "2200.00",
+        "taxes": "4258535.10"
     }
 }
