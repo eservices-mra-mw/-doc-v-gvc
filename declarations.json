@@ -3414,5 +3414,19 @@
         "total packages": "1",
         "consignment value": "USD 9900.00",
         "taxes": "5302867.50"
+    },
+    "70367034890345": {
+        "code": "70367034890345",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72673345",
+        "importer/consignee": "NUTRITIOUS AGRIFUTURE LIMITED\r\nP.O. BOX 158, LILONGWE,\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25960 of 2026/09/22",
+        "declarant code": "CA25319",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 25000.00",
+        "taxes": "14126439.48"
     }
 }
