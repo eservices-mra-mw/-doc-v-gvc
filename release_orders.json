@@ -2682,5 +2682,16 @@
         "declarant": "CA24166",
         "items": "1",
         "taxes": "8533450.31"
+    },
+    "60736970662045": {
+        "code": "60736970662045",
+        "title": "Release Order",
+        "tpin": "73242289",
+        "importer": "SO WHAT CLUB\r\nP.O BOX, 214 SANTHE KASUNGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25778 of 01/09/2025",
+        "declarant": "CA25319",
+        "items": "1",
+        "taxes": "5272867.50"
     }
 }
