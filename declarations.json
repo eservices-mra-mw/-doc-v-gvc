@@ -3428,5 +3428,19 @@
         "total packages": "1",
         "consignment value": "USD 25000.00",
         "taxes": "14126439.48"
+    },
+    "70582790543023": {
+        "code": "70582790543023",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71756578",
+        "importer/consignee": "CHUVU CLUB\r\nPO BOX 20 ENGUCWINI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 36650 of 2026/02/28",
+        "declarant code": "CA26335",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 2674.00",
+        "taxes": "2933691.18"
     }
 }

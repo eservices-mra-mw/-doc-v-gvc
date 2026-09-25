@@ -2704,5 +2704,16 @@
         "declarant": "CA26359",
         "items": "1",
         "taxes": "14076439.48"
+    },
+    "60870997953044": {
+        "code": "60870997953044",
+        "title": "Release Order",
+        "tpin": "71756578",
+        "importer": "CHUVU CLUB\r\nPO BOX 20\r\nENGUCWINI MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 36650 of 28/02/2026",
+        "declarant": "CA26335",
+        "items": "1",
+        "taxes": "2903691.18"
     }
 }
