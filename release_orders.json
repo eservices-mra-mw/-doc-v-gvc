@@ -2715,5 +2715,16 @@
         "declarant": "CA26335",
         "items": "1",
         "taxes": "2903691.18"
+    },
+    "60331093010722": {
+        "code": "60331093010722",
+        "title": "Release Order",
+        "tpin": "30605432",
+        "importer": "ESMEY MATAKA\r\nPO BOX MZUZU\r\nMZUZU MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2219 of 25/01/2021",
+        "declarant": "CA21211",
+        "items": "1",
+        "taxes": "832162.05"
     }
 }
