@@ -2726,5 +2726,16 @@
         "declarant": "CA21211",
         "items": "1",
         "taxes": "832162.05"
+    },
+    "60890136080201": {
+        "code": "60890136080201",
+        "title": "Release Order",
+        "tpin": "73454487",
+        "importer": "MATABWA CLUB,\r\nP.O BOX 28 NTAJA,\r\nNTAJA",
+        "office": "SONGWE BORDER",
+        "reference": "C 25982 of 05/09/2025",
+        "declarant": "CA25781",
+        "items": "1",
+        "taxes": "51808716.25"
     }
 }
