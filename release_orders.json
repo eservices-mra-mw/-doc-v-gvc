@@ -2737,5 +2737,16 @@
         "declarant": "CA25781",
         "items": "1",
         "taxes": "51808716.25"
+    },
+    "60252691103700": {
+        "code": "60252691103700",
+        "title": "Release Order",
+        "tpin": "71028643",
+        "importer": "JASON THENGEZA BIZIWICK\r\nKARONGA, KARONGA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 30776 of 10/09/2025",
+        "declarant": "CA25192",
+        "items": "1",
+        "taxes": "4891611.00"
     }
 }

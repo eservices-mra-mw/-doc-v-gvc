@@ -3470,5 +3470,19 @@
         "total packages": "53",
         "consignment value": "USD 53900.00",
         "taxes": "51838716.25"
+    },
+    "70252699705725": {
+        "code": "70252699705725",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71028643",
+        "importer/consignee": "JASON THENGEZA BIZIWICK\r\nBOX KARONGA, KARONGA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 30776 of 2025/09/10",
+        "declarant code": "CA25192",
+        "declarant name": "M & A AGENCIES\r\nP O BOX 40365\r\nLILONGWE 4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7500.00",
+        "taxes": "4921611.00"
     }
 }
