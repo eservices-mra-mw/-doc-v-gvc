@@ -3498,5 +3498,19 @@
         "total packages": "1",
         "consignment value": "USD 5016.51",
         "taxes": "1005418.82"
+    },
+    "70967934890335": {
+        "code": "70967934890335",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72673354",
+        "importer/consignee": "KWALI CLUB\r\nP. BAG 38 MPHEREMBE MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 45853 of 2025/10/12",
+        "declarant code": "CA25349",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 9600.00",
+        "taxes": "5910505.00"
     }
 }

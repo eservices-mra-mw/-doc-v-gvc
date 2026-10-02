@@ -2759,5 +2759,16 @@
         "declarant": "CA20514",
         "items": "1",
         "taxes": "995418.82"
+    },
+    "60914268299812": {
+        "code": "60914268299812",
+        "title": "Release Order",
+        "tpin": "72673354",
+        "importer": "KWALI CLUB\r\nP.BAG 38 MPHEREMBE MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 45853 of 12/10/2025",
+        "declarant": "CA25349",
+        "items": "1",
+        "taxes": "5880505.00"
     }
 }
