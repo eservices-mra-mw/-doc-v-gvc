@@ -2748,5 +2748,16 @@
         "declarant": "CA25192",
         "items": "1",
         "taxes": "4891611.00"
+    },
+    "60643401932448": {
+        "code": "60643401932448",
+        "title": "Release Order",
+        "tpin": "71944767",
+        "importer": "PARIS NIGHT CLUB\r\nP.O BOX 75 MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 4497 of 05/06/2020",
+        "declarant": "CA20514",
+        "items": "1",
+        "taxes": "995418.82"
     }
 }

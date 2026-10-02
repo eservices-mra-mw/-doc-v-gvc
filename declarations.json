@@ -3484,5 +3484,19 @@
         "total packages": "1",
         "consignment value": "USD 7500.00",
         "taxes": "4921611.00"
+    },
+    "70941323142467": {
+        "code": "70941323142467",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71944767",
+        "importer/consignee": "PARIS NIGHT CLUB\r\nP.O BOX 75 MZUZU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 4497 of 2020/06/05",
+        "declarant code": "CA20514",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5016.51",
+        "taxes": "1005418.82"
     }
 }
