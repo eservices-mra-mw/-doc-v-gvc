@@ -2770,5 +2770,16 @@
         "declarant": "CA25349",
         "items": "1",
         "taxes": "5880505.00"
+    },
+    "60753301038458": {
+        "code": "60753301038458",
+        "title": "Release Order",
+        "tpin": "71944767",
+        "importer": "MR DENIS NELSON SINDANI\r\nT/A CHAMATW\r\nTCHESAMU NEAR SCHOOL",
+        "office": "SONGWE BORDER",
+        "reference": "C 25497 of 24/10/2025",
+        "declarant": "CA25514",
+        "items": "1",
+        "taxes": "995418.82"
     }
 }

@@ -3512,5 +3512,19 @@
         "total packages": "1",
         "consignment value": "USD 9600.00",
         "taxes": "5910505.00"
+    },
+    "70885336280059": {
+        "code": "70885336280059",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71944767",
+        "importer/consignee": "MR DENIS NELSON SINDANI\r\nT/A CHAMATW\r\nTCHESAMU NEAR SCHOOL",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25497 of 2025/10/24",
+        "declarant code": "CA25514",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 7740.00",
+        "taxes": "1025418.82"
     }
 }
