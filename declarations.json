@@ -3526,5 +3526,19 @@
         "total packages": "1",
         "consignment value": "USD 7740.00",
         "taxes": "1025418.82"
+    },
+    "70980255937903": {
+        "code": "70980255937903",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71068524",
+        "importer/consignee": "MULERAWANA CLUB\r\nBOX 37, ENGUCWINI MZIMBA,\r\nMALAWI",
+        "clearance office": "DEDZA BORDER",
+        "registration reference": "C 25747 of 2025/11/14",
+        "declarant code": "CA25279",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "4",
+        "consignment value": "USD 3100.00",
+        "taxes": "1891310.94"
     }
 }
