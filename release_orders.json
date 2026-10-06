@@ -2792,5 +2792,16 @@
         "declarant": "CA25279",
         "items": "1",
         "taxes": "1841310.94"
+    },
+    "60943412143558": {
+        "code": "60943412143558",
+        "title": "Release Order",
+        "tpin": "72055878",
+        "importer": "ELIDI M PHIRI\r\nP-BAG 4 CHILOWAMATAMBE KASUNGU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 46976 of 15/08/2026",
+        "declarant": "CA26815",
+        "items": "1",
+        "taxes": "1607356.97"
     }
 }

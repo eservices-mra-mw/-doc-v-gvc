@@ -3540,5 +3540,19 @@
         "total packages": "4",
         "consignment value": "USD 3100.00",
         "taxes": "1891310.94"
+    },
+    "70941212044678": {
+        "code": "70941212044678",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72055878",
+        "importer/consignee": "ELIDI M PHIRI\r\nP-BAG 4 CHILOWAMATAMBE KASUNGU\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 46976 of 2026/08/15",
+        "declarant code": "CA26815",
+        "declarant name": "A & F FREIGHT\r\nP O BOX 379\r\nMZUZU",
+        "total items": "1",
+        "total packages": "10",
+        "consignment value": "USD 5100.00",
+        "taxes": "1657356.97"
     }
 }
