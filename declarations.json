@@ -3582,5 +3582,19 @@
         "total packages": "1",
         "consignment value": "USD 2400.00",
         "taxes": "7784367.65"
+    },
+    "29007648616958": {
+        "code": "29007648616958",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71064548",
+        "importer/consignee": "CHISOKOTOMASAYI CLUB\r\nP.O BOX 71,\r\nRUMPHI MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 45212 of 2025/11/18",
+        "declarant code": "CA25296",
+        "declarant name": "GREEL FREIGHT HANDLERS\r\nP.O BOX 534\r\nMZUZU",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 13000.00",
+        "taxes": "8858450.00"
     }
 }
