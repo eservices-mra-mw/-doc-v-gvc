@@ -3554,5 +3554,19 @@
         "total packages": "10",
         "consignment value": "USD 5350.00",
         "taxes": "1657356.97"
+    },
+    "50400405088085": {
+        "code": "50400405088085",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "31622196",
+        "importer/consignee": "CHISOKOTOMASAYI CLUB\r\nP.O BOX 71, RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 2558 of 2025/10/28",
+        "declarant code": "CA25896",
+        "declarant name": "TRANSMASTER LTD\r\nP.O BOX 31226\r\nCHICHIRI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 4600.00",
+        "taxes": "4832752.00"
     }
 }
