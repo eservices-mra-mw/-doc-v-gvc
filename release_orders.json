@@ -2814,5 +2814,16 @@
         "declarant": "CA25158",
         "items": "1",
         "taxes": "4802752.00"
+    },
+    "56768948512425": {
+        "code": "56768948512425",
+        "title": "Release Order",
+        "tpin": "31622196",
+        "importer": "CHISOKOTOMASAYI CLUB\r\nP.O BOX 71,\r\nRUMPHI MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 2005 of 25/10/2025",
+        "declarant": "CA25296",
+        "items": "1",
+        "taxes": "7754367.65"
     }
 }
