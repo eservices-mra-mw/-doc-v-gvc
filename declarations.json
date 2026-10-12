@@ -3610,5 +3610,19 @@
         "total packages": "480",
         "consignment value": "USD 4181.21",
         "taxes": "1364493.02"
+    },
+    "70957935890669": {
+        "code": "70957935890669",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72673354",
+        "importer/consignee": "TIKOLORE CLUB - ANNIE MBIZI\r\nBOX 299 RUMPHI\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25853 of 2025/12/25",
+        "declarant code": "CA25389",
+        "declarant name": "MAMO FREIGHT\r\nP O BOX 3357\r\nBLANTYRE",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 5096.00",
+        "taxes": "5910505.00"
     }
 }

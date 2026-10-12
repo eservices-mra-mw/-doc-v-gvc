@@ -2847,5 +2847,16 @@
         "declarant": "CA26726",
         "items": "1",
         "taxes": "1314493.02"
+    },
+    "60918390809943": {
+        "code": "60918390809943",
+        "title": "Release Order",
+        "tpin": "72673354",
+        "importer": "TIKOLORE CLUB - ANNIE MBIZI\r\nBOX 299 RUMPHI\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 25853 of 25/12/2025",
+        "declarant": "CA25389",
+        "items": "1",
+        "taxes": "5880505.00"
     }
 }
