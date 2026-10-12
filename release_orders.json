@@ -2836,5 +2836,16 @@
         "declarant": "CA25296",
         "items": "1",
         "taxes": "8798450.00"
+    },
+    "60658067090973": {
+        "code": "60658067090973",
+        "title": "Release Order",
+        "tpin": "70638344",
+        "importer": "CHIFARASI ESTATE\r\nBOX 46, BOLERO, RUMPHI,\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 26674 of 12/09/2026",
+        "declarant": "CA26726",
+        "items": "1",
+        "taxes": "1314493.02"
     }
 }

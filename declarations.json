@@ -3596,5 +3596,19 @@
         "total packages": "1",
         "consignment value": "USD 13000.00",
         "taxes": "8858450.00"
+    },
+    "70399457900903": {
+        "code": "70399457900903",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70638344",
+        "importer/consignee": "CHIFARASI ESTATE\r\nBOX 46, BOLERO, RUMPHI,\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 26674 of 2026/09/12",
+        "declarant code": "CA26726",
+        "declarant name": "TWESA FREIGHT SERVICES\r\nP.O BOX 926\r\nLILONGWE",
+        "total items": "1",
+        "total packages": "480",
+        "consignment value": "USD 4181.21",
+        "taxes": "1364493.02"
     }
 }
