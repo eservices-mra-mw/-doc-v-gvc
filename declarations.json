@@ -3624,5 +3624,19 @@
         "total packages": "1",
         "consignment value": "USD 5096.00",
         "taxes": "5910505.00"
+    },
+    "70391365000873": {
+        "code": "70391365000873",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "72055878",
+        "importer/consignee": "ELIDI M PHIRI\r\nP-BAG 4 CHILOWAMATAMBE\r\nKASUNGU MALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 25396 of 2025/10/10",
+        "declarant code": "CA25297",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "500",
+        "consignment value": "USD 22600.00",
+        "taxes": "4021580.00"
     }
 }
