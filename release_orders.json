@@ -2869,5 +2869,16 @@
         "declarant": "CA25297",
         "items": "1",
         "taxes": "3991580.00"
+    },
+    "60591840940378": {
+        "code": "60591840940378",
+        "title": "Release Order",
+        "tpin": "70719433",
+        "importer": "UMOZA ORGANIZATION\r\nPOST OFFICE BOX 136\r\nRUMPHI, MALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 26972 of 15/08/2026",
+        "declarant": "CA26388",
+        "items": "1",
+        "taxes": "3030444.00"
     }
 }

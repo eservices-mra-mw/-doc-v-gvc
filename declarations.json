@@ -3638,5 +3638,19 @@
         "total packages": "500",
         "consignment value": "USD 22600.00",
         "taxes": "4021580.00"
+    },
+    "70682097247005": {
+        "code": "70682097247005",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "70719433",
+        "importer/consignee": "UMOZA ORGANIZATION\r\nPOST OFFICE BOX 136 RUMPHI,\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 26972 of 2026/08/15",
+        "declarant code": "CA26388",
+        "declarant name": "SURFAVION CUSTOMS CLEARING AGENTS\r\nP.O BOX 40209\r\nKANENGO LILONGWE4",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "EUR 1600.00",
+        "taxes": "3060444.00"
     }
 }
