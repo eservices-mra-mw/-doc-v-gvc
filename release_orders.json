@@ -2880,5 +2880,16 @@
         "declarant": "CA26388",
         "items": "1",
         "taxes": "3030444.00"
+    },
+    "60392369829093": {
+        "code": "60392369829093",
+        "title": "Release Order",
+        "tpin": "71753003",
+        "importer": "MWAMBAZI CLUB\r\nP O BOX 22 ENGUCWINI MZIMBA\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 26512 of 12/08/2026",
+        "declarant": "CA26809",
+        "items": "1",
+        "taxes": "5885254.31"
     }
 }

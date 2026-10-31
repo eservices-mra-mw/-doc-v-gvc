@@ -3652,5 +3652,19 @@
         "total packages": "1",
         "consignment value": "EUR 1600.00",
         "taxes": "3060444.00"
+    },
+    "70793849973090": {
+        "code": "70793849973090",
+        "document title": "Customs and Excise\r\nDeclaration (Form 12)",
+        "tpin": "71753003",
+        "importer/consignee": "MWAMBAZI CLUB\r\nP O BOX 22 ENGUCWINI MZIMBA\r\nMALAWI",
+        "clearance office": "SONGWE BORDER",
+        "registration reference": "C 26512 of 2026/08/12",
+        "declarant code": "CA26809",
+        "declarant name": "PRESCORT FREIGHT & LOGISTICS\r\nP.O BOX 133\r\nLUMBADZI",
+        "total items": "1",
+        "total packages": "1",
+        "consignment value": "USD 567.00",
+        "taxes": "5930254.31"
     }
 }
