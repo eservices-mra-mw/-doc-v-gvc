@@ -2902,5 +2902,16 @@
         "declarant": "CA26208",
         "items": "1",
         "taxes": "6663876.60"
+    },
+    "60932505208299": {
+        "code": "60932505208299",
+        "title": "Release Order",
+        "tpin": "70931339",
+        "importer": "EMMANUEL NYANDA\r\nPRIVATE BAG 158 MZUZU\r\nMALAWI",
+        "office": "SONGWE BORDER",
+        "reference": "C 37932 of 28/10/2026",
+        "declarant": "CA26843",
+        "items": "1",
+        "taxes": "10021940.74"
     }
 }
