@@ -2913,5 +2913,16 @@
         "declarant": "CA26843",
         "items": "1",
         "taxes": "10021940.74"
+    },
+    "60687260308587": {
+        "code": "60687260308587",
+        "title": "Release Order",
+        "tpin": "70713005",
+        "importer": "SIMON MWAMBAZI CHIPETA - MAPHOSA ESTATE\r\nP.O BOX 22 ENGUCWIN\r\nMZIMBA",
+        "office": "SONGWE BORDER",
+        "reference": "C 46901 of 28/09/2026",
+        "declarant": "CA26473",
+        "items": "1",
+        "taxes": "1340938.56"
     }
 }
